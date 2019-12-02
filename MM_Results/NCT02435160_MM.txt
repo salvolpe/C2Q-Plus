@@ -1,0 +1,26 @@
+Processing input.txt.tx.1: Hemoglobin
+
+Phrase: Hemoglobin
+>>>>> Phrase
+hemoglobin
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0019046:Hemoglobin {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+<<<<< Mappings
+Processing input.txt.tx.1: < 6g/dL
+
+Phrase: < 6g/dL
+>>>>> Phrase
+6g dl
+<<<<< Phrase
+Processing input.txt.tx.1: male
+
+Phrase: male
+>>>>> Phrase
+male
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0086582:Male (Males {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organism Attribute]
+<<<<< Mappings

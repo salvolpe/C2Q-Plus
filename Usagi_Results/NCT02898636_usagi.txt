@@ -1,0 +1,30 @@
+{'term': 'Immunocompromised', 'domain': 'Condition'}
+{"matchScore":0.92684144,"concept":{"conceptId":4153516,"conceptName":"Patient immunocompromised","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"370388006","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"immunocompromised state"}
+
+{'term': 'HIV Infections', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":439727,"conceptName":"Human immunodeficiency virus infection","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"86406008","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":47,"additionalInformation":""},"term":"HIV Infections"}
+
+{'term': 'immunosuppressive therapy', 'domain': 'Procedure'}
+{"matchScore":1.0,"concept":{"conceptId":4314777,"conceptName":"Immunosuppressive therapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"86553008","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":2,"additionalInformation":""},"term":"Immunosuppressive therapy"}
+
+{'term': 'Putrefaction signs', 'domain': 'Measurement'}
+{"matchScore":0.55817753,"concept":{"conceptId":3028553,"conceptName":"Vital signs","domainId":"Measurement","vocabularyId":"LOINC","conceptClassId":"Clinical Observation","standardConcept":"S","conceptCode":"8716-3","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":27,"childCount":0,"additionalInformation":""},"term":"Vital signs"}
+
+{'term': '18 years or more', 'domain': 'Value'}
+N/A
+
+{'term': 'wound', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":4168335,"conceptName":"Wound","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"416462003","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":66,"additionalInformation":""},"term":"Wound"}
+
+{'term': 'death', 'domain': 'Observation'}
+{"matchScore":1.0,"concept":{"conceptId":4306655,"conceptName":"Death","domainId":"Observation","vocabularyId":"SNOMED","conceptClassId":"Event","standardConcept":"S","conceptCode":"419620001","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":35,"additionalInformation":""},"term":"Death"}
+
+{'term': 'at least one recent', 'domain': 'Temporal'}
+N/A
+
+{'term': 'death', 'domain': 'Observation'}
+{"matchScore":1.0,"concept":{"conceptId":4306655,"conceptName":"Death","domainId":"Observation","vocabularyId":"SNOMED","conceptClassId":"Event","standardConcept":"S","conceptCode":"419620001","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":35,"additionalInformation":""},"term":"Death"}
+
+{'term': 'wound', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":4168335,"conceptName":"Wound","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"416462003","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":66,"additionalInformation":""},"term":"Wound"}
+

@@ -1,0 +1,141 @@
+{'term': 'conditions', 'domain': 'Condition'}
+{"matchScore":0.7408064,"concept":{"conceptId":4187201,"conceptName":"Perinatal disorder","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"415073005","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":30,"additionalInformation":""},"term":"Perinatal conditions"}
+
+{'term': 'Low Back Pain', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":194133,"conceptName":"Low back pain","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"279039007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":18,"additionalInformation":""},"term":"Low back pain"}
+
+{'term': 'pain', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":4329041,"conceptName":"Pain","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"22253000","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":37,"additionalInformation":""},"term":"Pain"}
+
+{'term': 'Surgery', 'domain': 'Procedure'}
+{"matchScore":0.87013155,"concept":{"conceptId":1314425,"conceptName":"Emergency surgery","domainId":"Procedure","vocabularyId":"HCPCS","conceptClassId":"HCPCS","standardConcept":"S","conceptCode":"G9752","validStartDate":"20170101","validEndDate":"20991231","invalidReason":null,"parentCount":0,"childCount":0,"additionalInformation":""},"term":"Urgent surgery"}
+
+{'term': 'expected surgery', 'domain': 'Procedure'}
+{"matchScore":0.540481,"concept":{"conceptId":1314425,"conceptName":"Emergency surgery","domainId":"Procedure","vocabularyId":"HCPCS","conceptClassId":"HCPCS","standardConcept":"S","conceptCode":"G9752","validStartDate":"20170101","validEndDate":"20991231","invalidReason":null,"parentCount":0,"childCount":0,"additionalInformation":""},"term":"Urgent surgery"}
+
+{'term': 'within 3 months', 'domain': 'Temporal'}
+N/A
+
+{'term': 'scheduled surgery', 'domain': 'Procedure'}
+{"matchScore":0.5438663,"concept":{"conceptId":1314425,"conceptName":"Emergency surgery","domainId":"Procedure","vocabularyId":"HCPCS","conceptClassId":"HCPCS","standardConcept":"S","conceptCode":"G9752","validStartDate":"20170101","validEndDate":"20991231","invalidReason":null,"parentCount":0,"childCount":0,"additionalInformation":""},"term":"Urgent surgery"}
+
+{'term': 'procedure', 'domain': 'Procedure'}
+{"matchScore":1.0,"concept":{"conceptId":4322976,"conceptName":"Procedure","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"71388002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":0,"childCount":554,"additionalInformation":""},"term":"Procedure"}
+
+{'term': 'significant disease', 'domain': 'Condition'}
+{"matchScore":0.66766423,"concept":{"conceptId":4161455,"conceptName":"Significant coronary bypass graft disease","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"371805005","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":5,"childCount":0,"additionalInformation":""},"term":"Significant coronary bypass graft disease"}
+
+{'term': 'malignancy', 'domain': 'Condition'}
+{"matchScore":0.7547162,"concept":{"conceptId":4233629,"conceptName":"Widespread metastatic malignant neoplastic disease","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"405843009","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":4,"additionalInformation":""},"term":"Generalised malignancy"}
+
+{'term': 'basal cell carcinoma', 'domain': 'Condition'}
+{"matchScore":0.98713136,"concept":{"conceptId":4112752,"conceptName":"Basal cell carcinoma of skin","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"254701007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":35,"additionalInformation":""},"term":"Basal cell carcinoma"}
+
+{'term': 'within the past 2 years', 'domain': 'Temporal'}
+N/A
+
+{'term': 'Women', 'domain': 'Demographic'}
+N/A
+
+{'term': 'pregnant', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":4299535,"conceptName":"Patient currently pregnant","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"77386006","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":17,"additionalInformation":""},"term":"PREGNANT"}
+
+{'term': 'breast-feeding', 'domain': 'Condition'}
+{"matchScore":0.7793026,"concept":{"conceptId":4125440,"conceptName":"Able to perform breast-feeding","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"289080009","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":1,"additionalInformation":""},"term":"Able to perform breast-feeding"}
+
+{'term': 'severely impaired liver function', 'domain': 'Condition'}
+{"matchScore":0.65063375,"concept":{"conceptId":4312789,"conceptName":"At risk for impaired liver function","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"425060007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"At risk for impaired liver function"}
+
+{'term': 'Severely impaired kidney function', 'domain': 'Condition'}
+{"matchScore":0.6665617,"concept":{"conceptId":4328366,"conceptName":"Decreased renal function","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"76114004","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":2,"additionalInformation":""},"term":"Decreased kidney function"}
+
+{'term': 'chronic hepatitis', 'domain': 'Condition'}
+{"matchScore":0.99867827,"concept":{"conceptId":200763,"conceptName":"Chronic hepatitis","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"76783007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":6,"additionalInformation":""},"term":"Chronic hepatitis"}
+
+{'term': 'HIV', 'domain': 'Condition'}
+{"matchScore":0.7929952,"concept":{"conceptId":4082588,"conceptName":"Weal","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"247472004","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":3,"additionalInformation":""},"term":"Hives"}
+
+{'term': 'active hepatitis', 'domain': 'Condition'}
+{"matchScore":0.80523694,"concept":{"conceptId":4223947,"conceptName":"Viral hepatitis, type A","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"40468003","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":4,"additionalInformation":""},"term":"Infective hepatitis"}
+
+{'term': 'in past 3 months', 'domain': 'Temporal'}
+N/A
+
+{'term': 'seizure disorder', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":4029498,"conceptName":"Seizure disorder","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"128613002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":15,"additionalInformation":""},"term":"Seizure disorder"}
+
+{'term': 'Alcohol', 'domain': 'Observation'}
+{"matchScore":1.0,"concept":{"conceptId":4203148,"conceptName":"Alcohol","domainId":"Observation","vocabularyId":"SNOMED","conceptClassId":"Substance","standardConcept":"S","conceptCode":"53041004","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":35,"additionalInformation":""},"term":"Alcohol"}
+
+{'term': 'drug abuse', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":436954,"conceptName":"Drug abuse","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"26416006","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":19,"additionalInformation":""},"term":"Drug abuse"}
+
+{'term': 'Uncontrolled high blood pressure', 'domain': 'Condition'}
+{"matchScore":0.78322005,"concept":{"conceptId":4086587,"conceptName":"Elevated blood pressure","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"24184005","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":5,"additionalInformation":""},"term":"High blood pressure"}
+
+{'term': 'hypersensitivity', 'domain': 'Condition'}
+{"matchScore":0.9959343,"concept":{"conceptId":4303952,"conceptName":"Allergic reaction to substance","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"418634005","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":13,"additionalInformation":""},"term":"Hypersensitivity"}
+
+{'term': 'allergy', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":43530807,"conceptName":"Allergic disposition","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"609328004","validStartDate":"20130731","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":7,"additionalInformation":""},"term":"ALLERGY"}
+
+{'term': 'contraindications', 'domain': 'Condition'}
+{"matchScore":0.828228,"concept":{"conceptId":4266013,"conceptName":"Medical contraindication","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"397745006","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"Medical contraindication"}
+
+{'term': 'acetaminophen', 'domain': 'Drug'}
+{"matchScore":1.0,"concept":{"conceptId":1125315,"conceptName":"Acetaminophen","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"161","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":34,"childCount":6326,"additionalInformation":""},"term":"Acetaminophen"}
+
+{'term': 'opioid analgesics', 'domain': 'Drug'}
+{"matchScore":0.6730355,"concept":{"conceptId":1153928,"conceptName":"Fenoprofen","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"4331","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":6,"childCount":44,"additionalInformation":""},"term":"Nalgesic"}
+
+{'term': 'ingredients', 'domain': 'Drug'}
+{"matchScore":0.8539435,"concept":{"conceptId":19127890,"conceptName":"Inert Ingredients","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"748794","validStartDate":"20071230","validEndDate":"20991231","invalidReason":null,"parentCount":4,"childCount":85,"additionalInformation":""},"term":"Inert Ingredients"}
+
+{'term': 'Low Back Pain', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":194133,"conceptName":"Low back pain","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"279039007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":18,"additionalInformation":""},"term":"Low back pain"}
+
+{'term': 'non-malignant origin', 'domain': 'Condition'}
+{"matchScore":0.6338583,"concept":{"conceptId":4125634,"conceptName":"Non-malignant white cell disorder","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"234414004","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":11,"additionalInformation":""},"term":"Non-malignant white cell disorder"}
+
+{'term': 'at least 3 months', 'domain': 'Temporal'}
+N/A
+
+{'term': 'drug treatment', 'domain': 'Drug'}
+{"matchScore":0.6315792,"concept":{"conceptId":44051753,"conceptName":"Benzoyl Peroxide 0.025 MG/ML Topical Lotion [Repairing Treatment] by Fruit Of The Earth","domainId":"Drug","vocabularyId":"RxNorm Extension","conceptClassId":"Marketed Product","standardConcept":"S","conceptCode":"OMOP1046384","validStartDate":"20170824","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":0,"additionalInformation":""},"term":"Repairing Treatment [Drug]"}
+
+{'term': 'pain', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":4329041,"conceptName":"Pain","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"22253000","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":37,"additionalInformation":""},"term":"Pain"}
+
+{'term': 'therapy', 'domain': 'Drug'}
+{"matchScore":0.6544418,"concept":{"conceptId":19067073,"conceptName":"Helium","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"5140","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":50,"additionalInformation":""},"term":"Helium therapy"}
+
+{'term': 'at least 3 months', 'domain': 'Temporal'}
+N/A
+
+{'term': 'current', 'domain': 'Temporal'}
+N/A
+
+{'term': 'opioid treatment', 'domain': 'Drug'}
+{"matchScore":0.49659693,"concept":{"conceptId":40232101,"conceptName":"Benzalkonium Chloride 1.3 MG/ML Topical Solution","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Clinical Drug","standardConcept":"S","conceptCode":"1049254","validStartDate":"20110102","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":1,"additionalInformation":""},"term":"COLD SORE TREATMENT"}
+
+{'term': 'daily opioid dose < = 160 mg/day of oral morphine equivalent', 'domain': 'Value'}
+N/A
+
+{'term': 'baseline score', 'domain': 'Measurement'}
+{"matchScore":0.6150234,"concept":{"conceptId":40766819,"conceptName":"Baseline time","domainId":"Measurement","vocabularyId":"LOINC","conceptClassId":"Clinical Observation","standardConcept":"S","conceptCode":"64103-5","validStartDate":"20110331","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":0,"additionalInformation":""},"term":"Baseline time"}
+
+{'term': '11-point NRS', 'domain': 'Measurement'}
+{"matchScore":0.29855296,"concept":{"conceptId":40758342,"conceptName":"Number of male sexual partners in 6 months before symptom onset","domainId":"Measurement","vocabularyId":"LOINC","conceptClassId":"Clinical Observation","standardConcept":"S","conceptCode":"55213-3","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":0,"additionalInformation":""},"term":"# M Sex Prtnrs 6M Bfr Symp nRate"}
+
+{'term': 'pain', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":4329041,"conceptName":"Pain","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"22253000","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":37,"additionalInformation":""},"term":"Pain"}
+
+{'term': '> = 5', 'domain': 'Value'}
+N/A
+
+{'term': 'treatment', 'domain': 'Procedure'}
+{"matchScore":1.0,"concept":{"conceptId":4077953,"conceptName":"Therapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"276239002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":41,"additionalInformation":""},"term":"TREATMENT"}
+
+{'term': 'during the last 3 days', 'domain': 'Temporal'}
+N/A
+

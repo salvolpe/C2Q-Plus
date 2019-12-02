@@ -1,0 +1,118 @@
+Processing input.txt.tx.1: contraindication
+
+Phrase: contraindication
+>>>>> Phrase
+contraindication
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0522473:Contraindication {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: oral anticoagulant
+
+Phrase: oral anticoagulant
+>>>>> Phrase
+oral anticoagulant
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0354604:Oral anticoagulants (oral anticoagulants {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+<<<<< Mappings
+Processing input.txt.tx.1: Dabigatran
+
+Phrase: Dabigatran
+>>>>> Phrase
+dabigatran
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C2348066:Dabigatran (dabigatran {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+<<<<< Mappings
+Processing input.txt.tx.1: Rivaroxaban
+
+Phrase: Rivaroxaban
+>>>>> Phrase
+rivaroxaban
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C1739768:Rivaroxaban (rivaroxaban {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+<<<<< Mappings
+Processing input.txt.tx.1: Apixaban
+
+Phrase: Apixaban
+>>>>> Phrase
+apixaban
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C1831808:Apixaban (apixaban {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+<<<<< Mappings
+Processing input.txt.tx.1: Edoxaban
+
+Phrase: Edoxaban
+>>>>> Phrase
+edoxaban
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C2975435:Edoxaban (edoxaban {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+<<<<< Mappings
+Processing input.txt.tx.1: indication
+
+Phrase: indication
+>>>>> Phrase
+indication
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0392360:Indication of (contextual qualifier) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: treatment
+
+Phrase: treatment
+>>>>> Phrase
+treatment
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: nex oral anticoagulant within routine treatment
+
+Phrase: nex oral anticoagulant within routine treatment
+>>>>> Phrase
+nex oral anticoagulant within routine treatment
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (790):
+   790   C0354604:Oral anticoagulants (oral anticoagulants {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+   790   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+   790   C0205547:Routine {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: indication
+
+Phrase: indication
+>>>>> Phrase
+indication
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0392360:Indication of (contextual qualifier) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: treatment
+
+Phrase: treatment
+>>>>> Phrase
+treatment
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: other anticoagulation
+
+Phrase: other anticoagulation
+>>>>> Phrase
+other anticoagulation
+<<<<< Phrase

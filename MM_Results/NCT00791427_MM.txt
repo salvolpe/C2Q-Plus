@@ -1,0 +1,241 @@
+Processing input.txt.tx.1: treatment
+
+Phrase: treatment
+>>>>> Phrase
+treatment
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: anti-VEGF agent
+
+Phrase: anti-VEGF agent
+>>>>> Phrase
+anti vegf agent
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (827):
+   827   C1254351:Drug (Pharmacologic Substance {LNC,LNC}) [Pharmacologic Substance]
+   827   C0796392:Bevacizumab (bevacizumab {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+<<<<< Mappings
+Processing input.txt.tx.1: within 6 months
+
+Phrase: within 6 months
+>>>>> Phrase
+within 6 months
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (827):
+   827   C0439231:month {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Pregnancy
+
+Phrase: Pregnancy
+>>>>> Phrase
+pregnancy
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0032961:Pregnancy {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Function]
+<<<<< Mappings
+Processing input.txt.tx.1: positive pregnancy test
+
+Phrase: positive pregnancy test
+>>>>> Phrase
+positive pregnancy test
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0240802:Pregnancy test positive {ICD9CM,ICD9CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Laboratory or Test Result]
+<<<<< Mappings
+Processing input.txt.tx.1: women
+
+Phrase: women
+>>>>> Phrase
+women
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0043210:Woman {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Population Group]
+<<<<< Mappings
+Processing input.txt.tx.1: contraception
+
+Phrase: contraception
+>>>>> Phrase
+contraception
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0700589:Birth control (Contraceptive methods {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: condition
+
+Phrase: condition
+>>>>> Phrase
+condition
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0348080:Condition {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: investigational therapy
+
+Phrase: investigational therapy
+>>>>> Phrase
+investigational therapy
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+   861   C0220825:Evaluation {LNC,LNC} [Health Care Activity]
+<<<<< Mappings
+Processing input.txt.tx.1: Other causes of CNV
+
+Phrase: Other causes of CNV
+>>>>> Phrase
+other causes of cnv
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (770):
+   770   C1314792:Etiology {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Functional Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Glycogen storage disease type II
+
+Phrase: Glycogen storage disease type II
+>>>>> Phrase
+glycogen storage disease type ii
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0017921:Glycogen storage disease type II {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+<<<<< Mappings
+Processing input.txt.tx.1: Active ocular
+
+Phrase: Active ocular
+>>>>> Phrase
+active ocular
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C1299003:Ocular (Ocular (qualifier) {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Functional Concept]
+   861   C0205177:Active {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: peri-ocular infection
+
+Phrase: peri-ocular infection
+>>>>> Phrase
+peri ocular infection
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C0015403:Eye infection (Eye Infection {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+   901   C0347985:During values {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Ocular surgery
+
+Phrase: Ocular surgery
+>>>>> Phrase
+ocular surgery
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C1705869:Eye surgery (Ophthalmic surgery specialty {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+<<<<< Mappings
+Processing input.txt.tx.1: within 1 month
+
+Phrase: within 1 month
+>>>>> Phrase
+within 1 month
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C1442451:1Mo (1 Month {LNC,LNC}) [Temporal Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Age
+
+Phrase: Age
+>>>>> Phrase
+age
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0001779:Age {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Attribute]
+<<<<< Mappings
+Processing input.txt.tx.1: > 55 years
+
+Phrase: > 55 years
+>>>>> Phrase
+55 years
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C0439234:year {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   861   C0450382:55 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Intellectual Product]
+<<<<< Mappings
+Processing input.txt.tx.1: choroidal neovascularization
+
+Phrase: choroidal neovascularization
+>>>>> Phrase
+choroidal neovascularization
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C0027686:Neovascularity (Pathologic Neovascularization {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Pathologic Function]
+   861   C0008520:Choroid, NOS (Choroid {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Body Part, Organ, or Organ Component]
+<<<<< Mappings
+Processing input.txt.tx.1: Best corrected visual acuity
+
+Phrase: Best corrected visual acuity
+>>>>> Phrase
+best corrected visual acuity
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C1690532:Best corrected visual acuity {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+<<<<< Mappings
+Processing input.txt.tx.1: between 20/20 - 20/400
+
+Phrase: between 20/20 - 20/400
+>>>>> Phrase
+between 20 20 20 400
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (875):
+   875   C0442765:20/400 {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+<<<<< Mappings
+Processing input.txt.tx.1: Lesion
+
+Phrase: Lesion
+>>>>> Phrase
+lesion
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0221198:Lesion {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+<<<<< Mappings
+Processing input.txt.tx.1: less than or equal to 12 MPS disc
+
+Phrase: less than
+>>>>> Phrase
+less than
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0439092:< (Less Than {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Quantitative Concept]
+<<<<< Mappings
+
+Phrase: or
+>>>>> Phrase
+or
+<<<<< Phrase
+
+Phrase: equal to 12 MPS disc
+>>>>> Phrase
+equal to 12 mps disc
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (806):
+   806   C0205163:Equal {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   806   C1705370:Disc - unit of product usage (Disk Dosing Unit {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Quantitative Concept]
+<<<<< Mappings

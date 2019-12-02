@@ -1,0 +1,422 @@
+Processing input.txt.tx.1: dose anticoagulation therapy
+
+Phrase: dose anticoagulation therapy
+>>>>> Phrase
+dose anticoagulation therapy
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C0003280:Anticoagulant (Anticoagulants {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Pharmacologic Substance]
+   901   C0178602:Dosage {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: treatment
+
+Phrase: treatment
+>>>>> Phrase
+treatment
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: within 2 week
+
+Phrase: within 2 week
+>>>>> Phrase
+within 2 week
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (827):
+   827   C0332174:Weekly {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   827   C0740116:+2 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Anticancer therapy
+
+Phrase: Anticancer therapy
+>>>>> Phrase
+anticancer therapy
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0920425:Cancer treatment (cancer therapy {LNC,LNC}) [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: treatment
+
+Phrase: treatment
+>>>>> Phrase
+treatment
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: within 2 weeks
+
+Phrase: within 2 weeks
+>>>>> Phrase
+within 2 weeks
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (827):
+   827   C0439230:week {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   827   C0740116:+2 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Investigational therapy
+
+Phrase: Investigational therapy
+>>>>> Phrase
+investigational therapy
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+   861   C0220825:Evaluation {LNC,LNC} [Health Care Activity]
+<<<<< Mappings
+Processing input.txt.tx.1: treatment
+
+Phrase: treatment
+>>>>> Phrase
+treatment
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: within 4 weeks
+
+Phrase: within 4 weeks
+>>>>> Phrase
+within 4 weeks
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (827):
+   827   C0439230:week {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   827   C3838679:4+ (4+ Answer to question {LNC,LNC}) [Finding]
+<<<<< Mappings
+Processing input.txt.tx.1: Major surgery
+
+Phrase: Major surgery
+>>>>> Phrase
+major surgery
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C0205164:Major {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   861   C1274039:General surgery (General surgery specialty {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+<<<<< Mappings
+Processing input.txt.tx.1: treatment
+
+Phrase: treatment
+>>>>> Phrase
+treatment
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: within 2 weeks
+
+Phrase: within 2 weeks
+>>>>> Phrase
+within 2 weeks
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (827):
+   827   C0439230:week {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   827   C0740116:+2 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Coexisting active infection
+
+Phrase: Coexisting
+>>>>> Phrase
+coexisting
+<<<<< Phrase
+
+Phrase: active infection
+>>>>> Phrase
+active infection
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C0009450:Communicable disease (Communicable Diseases {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+   861   C0205177:Active {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: other medical condition
+
+Phrase: other medical condition
+>>>>> Phrase
+other medical condition
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (827):
+   827   C0348080:Condition {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   827   C0199168:Medical service {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Health Care Activity]
+<<<<< Mappings
+Processing input.txt.tx.1: Significant cardiovascular disease
+
+Phrase: Significant cardiovascular disease
+>>>>> Phrase
+significant cardiovascular disease
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C0007222:Cardiovascular disease (Cardiovascular Diseases {ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+   901   C0750502:Significant {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: New York Heart Association Classification
+
+Phrase: New York Heart Association Classification
+>>>>> Phrase
+new york heart association classification
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C1275491:New York Heart Association Classification {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Intellectual Product]
+<<<<< Mappings
+Processing input.txt.tx.1: Class III or IV
+
+Phrase: Class III or IV
+>>>>> Phrase
+class iii or iv
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (902):
+   902   C0441888:Class 4 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Classification]
+   902   C0441887:Class 3 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Intellectual Product]
+<<<<< Mappings
+Processing input.txt.tx.1: significant CNS disorder
+
+Phrase: significant CNS disorder
+>>>>> Phrase
+significant cns disorder
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C0007682:CNS disorder {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+   901   C0750502:Significant {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: altered mental status
+
+Phrase: altered mental status
+>>>>> Phrase
+altered mental status
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0278061:Abnormal mental state {ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Mental or Behavioral Dysfunction]
+<<<<< Mappings
+Processing input.txt.tx.1: psychiatric disorders
+
+Phrase: psychiatric disorders
+>>>>> Phrase
+psychiatric disorders
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0004936:Mental disorders NOS (Mental disorders {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Mental or Behavioral Dysfunction]
+<<<<< Mappings
+Processing input.txt.tx.1: Symptomatic
+
+Phrase: Symptomatic
+>>>>> Phrase
+symptomatic
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0231220:Symptomatic {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Functional Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: untreated CNS metastases
+
+Phrase: untreated CNS metastases
+>>>>> Phrase
+untreated cns metastases
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C0279130:Central nervous system (CNS) metastases (tumor staging) {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Classification]
+   901   C0332155:Did not receive therapy or drug for {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+<<<<< Mappings
+Processing input.txt.tx.1: Pregnant
+
+Phrase: Pregnant
+>>>>> Phrase
+pregnant
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0549206:Patient currently pregnant {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+<<<<< Mappings
+Processing input.txt.tx.1: breast feeding
+
+Phrase: breast feeding
+>>>>> Phrase
+breast feeding
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0006147:Breast feeding, NOS (Breast Feeding {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organism Function]
+<<<<< Mappings
+Processing input.txt.tx.1: women
+
+Phrase: women
+>>>>> Phrase
+women
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0043210:Woman {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Population Group]
+<<<<< Mappings
+Processing input.txt.tx.1: contraception
+
+Phrase: contraception
+>>>>> Phrase
+contraception
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0700589:Birth control (Contraceptive methods {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: infection
+
+Phrase: infection
+>>>>> Phrase
+infection
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0009450:Communicable disease (Communicable Diseases {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+<<<<< Mappings
+Processing input.txt.tx.1: HIV
+
+Phrase: HIV
+>>>>> Phrase
+hiv
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0019699:HIV seropositivity (HIV Seropositivity {ICD10CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Laboratory or Test Result]
+<<<<< Mappings
+Processing input.txt.tx.1: Hep B or Hep C
+
+Phrase: Hep B or Hep C
+>>>>> Phrase
+hep b or hep c
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (673):
+   673   C0062527:Hepatitis B vaccine (Hepatitis B Surface Antigen Vaccine {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+<<<<< Mappings
+Processing input.txt.tx.1: malignant disease
+
+Phrase: malignant disease
+>>>>> Phrase
+malignant disease
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0442867:Malignant disease (malignant disease {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+<<<<< Mappings
+Processing input.txt.tx.1: Age
+
+Phrase: Age
+>>>>> Phrase
+age
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0001779:Age {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Attribute]
+<<<<< Mappings
+Processing input.txt.tx.1: >= 18 years old
+
+Phrase: >
+>>>>> Phrase
+<<<<< Phrase
+
+Phrase: = 18 years
+>>>>> Phrase
+18 years
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C0439234:year {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+<<<<< Mappings
+
+Phrase: old
+>>>>> Phrase
+old
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0580836:Old {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Adequate organ function
+
+Phrase: Adequate organ function
+>>>>> Phrase
+adequate organ function
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (827):
+   827   C0178784:{Organ} (Organ {LNC,LNC}) [Body Part, Organ, or Organ Component]
+   827   C0542341:Function (attribute) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Functional Concept]
+   827   C0205410:Sufficient {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: ECOG 0-2
+
+Phrase: ECOG 0-2
+>>>>> Phrase
+ecog 0 2
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C4517436:0.2 {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+   901   C0430797:Electrocorticogram {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Diagnostic Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: Estimated life expectancy
+
+Phrase: Estimated life expectancy
+>>>>> Phrase
+estimated life expectancy
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C0023671:Life expectancy (Life Expectancy {LNC,LNC}) [Group Attribute]
+   901   C0750572:Estimated {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: > 3months
+
+Phrase: > 3months
+>>>>> Phrase
+3months
+<<<<< Phrase
+Processing input.txt.tx.1: Negative pregnancy test
+
+Phrase: Negative pregnancy test
+>>>>> Phrase
+negative pregnancy test
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0427780:Pregnancy test negative {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Laboratory or Test Result]
+<<<<< Mappings
+Processing input.txt.tx.1: women
+
+Phrase: women
+>>>>> Phrase
+women
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0043210:Woman {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Population Group]
+<<<<< Mappings
+Processing input.txt.tx.1: child bearing potential
+
+Phrase: child bearing potential
+>>>>> Phrase
+child bearing potential
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (660):
+   660   C0008059:Child {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Age Group]
+   660   C0004897:Family ursidae (Ursidae Family {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Mammal]
+<<<<< Mappings

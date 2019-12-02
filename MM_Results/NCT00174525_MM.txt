@@ -1,0 +1,341 @@
+Processing input.txt.tx.1: Significant neurological disease
+
+Phrase: Significant neurological disease
+>>>>> Phrase
+significant neurological disease
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C0027765:Nervous system disorders NOS (nervous system disorder {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+   901   C0750502:Significant {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Alzheimer's Disease
+
+Phrase: Alzheimer's Disease
+>>>>> Phrase
+alzheimer disease
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0002395:Alzheimer's disease (Alzheimer's Disease {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+<<<<< Mappings
+Processing input.txt.tx.1: Major psychiatric disorder
+
+Phrase: Major psychiatric disorder
+>>>>> Phrase
+major psychiatric disorder
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C0004936:Mental disorders NOS (Mental disorders {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Mental or Behavioral Dysfunction]
+   901   C0205164:Major {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Significant systemic illness
+
+Phrase: Significant systemic illness
+>>>>> Phrase
+significant systemic illness
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C0442893:Systemic disease {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+   901   C0750502:Significant {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: stroke
+
+Phrase: stroke
+>>>>> Phrase
+stroke
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0038454:Cerebrovascular accident {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+<<<<< Mappings
+Processing input.txt.tx.1: seizure
+
+Phrase: seizure
+>>>>> Phrase
+seizure
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0036572:Seizures {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Sign or Symptom]
+<<<<< Mappings
+Processing input.txt.tx.1: Weight
+
+Phrase: Weight
+>>>>> Phrase
+weight
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C1305866:Weighing patient {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Health Care Activity]
+<<<<< Mappings
+Processing input.txt.tx.1: greater than 120kg ( 264 lbs
+
+Phrase: greater than 120kg
+>>>>> Phrase
+greater than 120kg
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (882):
+   882   C0439093:> (Greater Than {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Quantitative Concept]
+<<<<< Mappings
+
+Phrase: ( 264 lbs
+>>>>> Phrase
+264 lbs
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C0439219:pounds (Pounds {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Quantitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: autoimmune
+
+Phrase: autoimmune
+>>>>> Phrase
+autoimmune
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0443146:Autoimmune reaction {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Pathologic Function]
+<<<<< Mappings
+Processing input.txt.tx.1: autoimmune disease
+
+Phrase: autoimmune disease
+>>>>> Phrase
+autoimmune disease
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0004364:Autoimmune diseases (Autoimmune Diseases {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+<<<<< Mappings
+Processing input.txt.tx.1: Smoking
+
+Phrase: Smoking
+>>>>> Phrase
+smoking
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0453996:Tobacco smoking behavior {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Individual Behavior]
+<<<<< Mappings
+Processing input.txt.tx.1: more than 20 cigarettes per day
+
+Phrase: more than 20 cigarettes
+>>>>> Phrase
+more than 20 cigarettes
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (770):
+   770   C0205172:More {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+   770   C0677453:Cigarette {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Manufactured Object]
+   770   C3842589:20% {LNC,LNC} [Quantitative Concept]
+<<<<< Mappings
+
+Phrase: per day
+>>>>> Phrase
+per day
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C0439228:day {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Anticonvulsants
+
+Phrase: Anticonvulsants
+>>>>> Phrase
+anticonvulsants
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0003286:Anticonvulsants {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Pharmacologic Substance]
+<<<<< Mappings
+Processing input.txt.tx.1: anti-Parkinson 's
+
+Phrase: anti-Parkinson
+>>>>> Phrase
+anti parkinson
+<<<<< Phrase
+Processing input.txt.tx.1: anticoagulant
+
+Phrase: anticoagulant
+>>>>> Phrase
+anticoagulant
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0003280:Anticoagulant (Anticoagulants {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Pharmacologic Substance]
+<<<<< Mappings
+Processing input.txt.tx.1: narcotic medications
+
+Phrase: narcotic medications
+>>>>> Phrase
+narcotic medications
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0237425:Narcotic drug (Narcotic Drugs {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biologically Active Substance,Pharmacologic Substance]
+<<<<< Mappings
+Processing input.txt.tx.1: treatment
+
+Phrase: treatment
+>>>>> Phrase
+treatment
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: experimental immunotherapeutics
+
+Phrase: experimental immunotherapeutics
+>>>>> Phrase
+experimental immunotherapeutics
+<<<<< Phrase
+Processing input.txt.tx.1: Alzheimer's Disease
+
+Phrase: Alzheimer's Disease
+>>>>> Phrase
+alzheimer disease
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0002395:Alzheimer's disease (Alzheimer's Disease {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+<<<<< Mappings
+Processing input.txt.tx.1: pacemakers
+
+Phrase: pacemakers
+>>>>> Phrase
+pacemakers
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0810633:Pacemaker (Pacemakers {LNC,LNC}) [Medical Device]
+<<<<< Mappings
+Processing input.txt.tx.1: metal objects
+
+Phrase: metal
+>>>>> Phrase
+metal
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0025552:Metals {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Inorganic Chemical]
+<<<<< Mappings
+
+Phrase: objects
+>>>>> Phrase
+objects
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0347997:Physical object {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Physical Object]
+<<<<< Mappings
+Processing input.txt.tx.1: probable AD
+
+Phrase: probable AD
+>>>>> Phrase
+probable ad
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (694):
+   694   C0033204:Probable (Probability {LNC,LNC}) [Quantitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Age
+
+Phrase: Age
+>>>>> Phrase
+age
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0001779:Age {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Attribute]
+<<<<< Mappings
+Processing input.txt.tx.1: 50 to 85 years , inclusive
+
+Phrase: 50 to 85 years ,
+>>>>> Phrase
+50 to 85 years
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (770):
+   770   C0439234:year {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   770   C3843766:<50 {LNC,LNC} [Finding]
+   770   C4517892:85 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+<<<<< Mappings
+
+Phrase: inclusive
+>>>>> Phrase
+inclusive
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier) {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Functional Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Rosen Modified Hachinski ischemic score
+
+Phrase: Rosen Modified Hachinski ischemic score
+>>>>> Phrase
+rosen modified hachinski ischemic score
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (804):
+   804   C0449820:Score {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+   804   C0475224:Ischemic {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Functional Concept]
+   804   C0392747:Changing {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Functional Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: less than or equal to 4
+
+Phrase: less than
+>>>>> Phrase
+less than
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0439092:< (Less Than {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Quantitative Concept]
+<<<<< Mappings
+
+Phrase: or
+>>>>> Phrase
+or
+<<<<< Phrase
+
+Phrase: equal to 4
+>>>>> Phrase
+equal to 4
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (882):
+   882   C0205163:Equal {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Magnetic Resonance Imaging
+
+Phrase: Magnetic Resonance Imaging
+>>>>> Phrase
+magnetic resonance imaging
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0024485:Magnetic resonance imaging (Magnetic Resonance Imaging {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Diagnostic Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: Alzheimer's Disease
+
+Phrase: Alzheimer's Disease
+>>>>> Phrase
+alzheimer disease
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0002395:Alzheimer's disease (Alzheimer's Disease {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+<<<<< Mappings
+Processing input.txt.tx.1: medications
+
+Phrase: medications
+>>>>> Phrase
+medications
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C2598133:Medications:-:Point in time:^Patient:- {LNC,LNC} [Clinical Attribute]
+<<<<< Mappings

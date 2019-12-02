@@ -1,0 +1,87 @@
+{'term': 'Significant neurological disease', 'domain': 'Condition'}
+{"matchScore":0.6452301,"concept":{"conceptId":75865,"conceptName":"Disorder of the urinary system","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"128606002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":22,"additionalInformation":""},"term":"Urological Disease"}
+
+{'term': "Alzheimer's Disease", 'domain': 'Condition'}
+{"matchScore":0.9984564,"concept":{"conceptId":378419,"conceptName":"Alzheimer's disease","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"26929004","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":12,"additionalInformation":""},"term":"Alzheimer's disease"}
+
+{'term': 'Major psychiatric disorder', 'domain': 'Condition'}
+{"matchScore":0.7811088,"concept":{"conceptId":432586,"conceptName":"Mental disorder","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"74732009","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":41,"additionalInformation":""},"term":"Psychiatric disorder"}
+
+{'term': 'Significant systemic illness', 'domain': 'Condition'}
+{"matchScore":0.6085672,"concept":{"conceptId":4051630,"conceptName":"Malingering","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"23268009","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"Feigning illness"}
+
+{'term': 'stroke', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":381316,"conceptName":"Cerebrovascular accident","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"230690007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":26,"additionalInformation":""},"term":"STROKE"}
+
+{'term': 'seizure', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":377091,"conceptName":"Seizure","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"91175000","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":31,"additionalInformation":""},"term":"Seizure"}
+
+{'term': 'Weight', 'domain': 'Measurement'}
+{"matchScore":1.0,"concept":{"conceptId":3025315,"conceptName":"Body weight","domainId":"Measurement","vocabularyId":"LOINC","conceptClassId":"Clinical Observation","standardConcept":"S","conceptCode":"29463-7","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":22,"childCount":0,"additionalInformation":""},"term":"Weight"}
+
+{'term': 'greater than 120kg ( 264 lbs', 'domain': 'Value'}
+N/A
+
+{'term': 'autoimmune', 'domain': 'Condition'}
+{"matchScore":0.92175895,"concept":{"conceptId":4182582,"conceptName":"Autoimmune state","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"4301008","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":1,"additionalInformation":""},"term":"Autoimmune state"}
+
+{'term': 'autoimmune disease', 'domain': 'Condition'}
+{"matchScore":0.9967206,"concept":{"conceptId":434621,"conceptName":"Autoimmune disease","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"85828009","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":39,"additionalInformation":""},"term":"Autoimmune disease"}
+
+{'term': 'Smoking', 'domain': 'Observation'}
+{"matchScore":1.0,"concept":{"conceptId":4275495,"conceptName":"Tobacco smoking behavior - finding","domainId":"Observation","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"365981007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":13,"additionalInformation":""},"term":"Smoking"}
+
+{'term': 'more than 20 cigarettes per day', 'domain': 'Temporal'}
+N/A
+
+{'term': 'Anticonvulsants', 'domain': 'Drug'}
+{"matchScore":0.4833845,"concept":{"conceptId":40955866,"conceptName":"Valproate Oral Tablet [Convulsofin]","domainId":"Drug","vocabularyId":"RxNorm Extension","conceptClassId":"Branded Drug Form","standardConcept":"S","conceptCode":"OMOP2153828","validStartDate":"20170824","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":1,"additionalInformation":""},"term":"Valproate Oral Tablet [Convulsofin]"}
+
+{'term': "anti-Parkinson 's", 'domain': 'Drug'}
+{"matchScore":0.45044142,"concept":{"conceptId":19019932,"conceptName":"budipine","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"19832","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":0,"childCount":12,"additionalInformation":""},"term":"Parkinsan"}
+
+{'term': 'anticoagulant', 'domain': 'Drug'}
+{"matchScore":0.7566054,"concept":{"conceptId":19008106,"conceptName":"coumarin","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"2898","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":0,"childCount":77,"additionalInformation":""},"term":"Coumarin anticoagulant"}
+
+{'term': 'narcotic medications', 'domain': 'Drug'}
+{"matchScore":0.6704494,"concept":{"conceptId":19021930,"conceptName":"Noscapine","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"7533","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":0,"childCount":160,"additionalInformation":""},"term":"Narcotine"}
+
+{'term': 'treatment', 'domain': 'Procedure'}
+{"matchScore":1.0,"concept":{"conceptId":4077953,"conceptName":"Therapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"276239002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":41,"additionalInformation":""},"term":"TREATMENT"}
+
+{'term': 'experimental immunotherapeutics', 'domain': 'Drug'}
+{"matchScore":0.40101746,"concept":{"conceptId":19079924,"conceptName":"Acetaminophen 160 MG Chewable Tablet","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Clinical Drug","standardConcept":"S","conceptCode":"313820","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":12,"childCount":4,"additionalInformation":""},"term":"THERAPEUTIC M TABLET"}
+
+{'term': "Alzheimer's Disease", 'domain': 'Condition'}
+{"matchScore":0.9984564,"concept":{"conceptId":378419,"conceptName":"Alzheimer's disease","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"26929004","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":12,"additionalInformation":""},"term":"Alzheimer's disease"}
+
+{'term': 'pacemakers', 'domain': 'Procedure'}
+{"matchScore":0.8525152,"concept":{"conceptId":4049403,"conceptName":"Maintenance procedure for cardiac pacemaker system","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"233184008","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":21,"additionalInformation":""},"term":"Pacemaker care"}
+
+{'term': 'metal objects', 'domain': 'Procedure'}
+{"matchScore":0.5739194,"concept":{"conceptId":4180032,"conceptName":"Removal of object","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"297236007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":1,"additionalInformation":""},"term":"Removal of object"}
+
+{'term': 'probable AD', 'domain': 'Condition'}
+{"matchScore":0.5311277,"concept":{"conceptId":4311103,"conceptName":"Proband","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"85900004","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"Proband"}
+
+{'term': 'Age', 'domain': 'Demographic'}
+N/A
+
+{'term': '50 to 85 years , inclusive', 'domain': 'Value'}
+N/A
+
+{'term': 'Rosen Modified Hachinski ischemic score', 'domain': 'Measurement'}
+{"matchScore":0.3126253,"concept":{"conceptId":44805804,"conceptName":"Ischaemia modified albumin measurement","domainId":"Measurement","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"789371000000101","validStartDate":"20140401","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"Ischaemia modified albumin measurement"}
+
+{'term': 'less than or equal to 4', 'domain': 'Value'}
+N/A
+
+{'term': 'Magnetic Resonance Imaging', 'domain': 'Procedure'}
+{"matchScore":0.97434527,"concept":{"conceptId":4013636,"conceptName":"Magnetic resonance imaging","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"113091000","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":41,"additionalInformation":""},"term":"Magnetic resonance imaging"}
+
+{'term': "Alzheimer's Disease", 'domain': 'Condition'}
+{"matchScore":0.9984564,"concept":{"conceptId":378419,"conceptName":"Alzheimer's disease","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"26929004","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":12,"additionalInformation":""},"term":"Alzheimer's disease"}
+
+{'term': 'medications', 'domain': 'Procedure'}
+{"matchScore":0.8186771,"concept":{"conceptId":4082382,"conceptName":"Management of drug regimen","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"182832007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":25,"additionalInformation":""},"term":"Medication actions"}
+

@@ -1,0 +1,82 @@
+Processing input.txt.tx.1: condition
+
+Phrase: condition
+>>>>> Phrase
+condition
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0348080:Condition {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: chronic disease
+
+Phrase: chronic disease
+>>>>> Phrase
+chronic disease
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0008679:Chronic disease {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+<<<<< Mappings
+Processing input.txt.tx.1: carbohydrate
+
+Phrase: carbohydrate
+>>>>> Phrase
+carbohydrate
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0007004:Carbohydrates {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organic Chemical]
+<<<<< Mappings
+Processing input.txt.tx.1: disorder
+
+Phrase: disorder
+>>>>> Phrase
+disorder
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0012634:Disease {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+<<<<< Mappings
+Processing input.txt.tx.1: medications
+
+Phrase: medications
+>>>>> Phrase
+medications
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C2598133:Medications:-:Point in time:^Patient:- {LNC,LNC} [Clinical Attribute]
+<<<<< Mappings
+Processing input.txt.tx.1: Healthy children between
+
+Phrase: Healthy children between
+>>>>> Phrase
+healthy children between
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (866):
+   866   C0686744:Well child {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+<<<<< Mappings
+Processing input.txt.tx.1: ages
+
+Phrase: ages
+>>>>> Phrase
+ages
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0001779:Age {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Attribute]
+<<<<< Mappings
+Processing input.txt.tx.1: 5 months and 3 years
+
+Phrase: 5 months and 3 years
+>>>>> Phrase
+5 months and 3 years
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (804):
+   804   C0439234:year {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   804   C0439084:>5 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+   804   C0439231:month {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+<<<<< Mappings

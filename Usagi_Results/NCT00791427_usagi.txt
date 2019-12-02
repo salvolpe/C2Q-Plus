@@ -1,0 +1,66 @@
+{'term': 'treatment', 'domain': 'Procedure'}
+{"matchScore":1.0,"concept":{"conceptId":4077953,"conceptName":"Therapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"276239002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":41,"additionalInformation":""},"term":"TREATMENT"}
+
+{'term': 'anti-VEGF agent', 'domain': 'Drug'}
+{"matchScore":0.47850966,"concept":{"conceptId":40244266,"conceptName":"aflibercept","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"1232150","validStartDate":"20111204","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":24,"additionalInformation":""},"term":"VEGF Trap - regeneron"}
+
+{'term': 'within 6 months', 'domain': 'Temporal'}
+N/A
+
+{'term': 'Pregnancy', 'domain': 'Observation'}
+{"matchScore":1.0,"concept":{"conceptId":4128331,"conceptName":"Pregnancy","domainId":"Observation","vocabularyId":"SNOMED","conceptClassId":"Qualifier Value","standardConcept":"S","conceptCode":"289908002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"Pregnancy"}
+
+{'term': 'positive pregnancy test', 'domain': 'Measurement'}
+{"matchScore":0.903808,"concept":{"conceptId":4091293,"conceptName":"Sensitive pregnancy test","domainId":"Measurement","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"252161000","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":1,"additionalInformation":""},"term":"Sensitive pregnancy test"}
+
+{'term': 'women', 'domain': 'Demographic'}
+N/A
+
+{'term': 'contraception', 'domain': 'Observation'}
+{"matchScore":0.99796516,"concept":{"conceptId":4027509,"conceptName":"Contraception","domainId":"Observation","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"13197004","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":14,"additionalInformation":""},"term":"Contraception"}
+
+{'term': 'condition', 'domain': 'Condition'}
+{"matchScore":0.7077829,"concept":{"conceptId":80205,"conceptName":"Condition in fetus originating in the perinatal period","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"41168002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":4,"additionalInformation":""},"term":"Perinatal condition"}
+
+{'term': 'investigational therapy', 'domain': 'Drug'}
+{"matchScore":0.3737436,"concept":{"conceptId":19067073,"conceptName":"Helium","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"5140","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":50,"additionalInformation":""},"term":"Helium therapy"}
+
+{'term': 'Other causes of CNV', 'domain': 'Condition'}
+{"matchScore":0.49385425,"concept":{"conceptId":378143,"conceptName":"Encephalitis","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"45170000","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":4,"childCount":29,"additionalInformation":""},"term":"Other causes of encephalitis"}
+
+{'term': 'Glycogen storage disease type II', 'domain': 'Condition'}
+{"matchScore":0.9934157,"concept":{"conceptId":4049724,"conceptName":"Deficiency of glucan 1,4-alpha-glucosidase","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"124454007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"Glycogen Storage Disease Type II"}
+
+{'term': 'Active ocular', 'domain': 'Condition'}
+{"matchScore":0.52517605,"concept":{"conceptId":4134613,"conceptName":"Eye infection","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"128351009","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":13,"additionalInformation":""},"term":"Infection, Ocular"}
+
+{'term': 'peri-ocular infection', 'domain': 'Condition'}
+{"matchScore":0.65364456,"concept":{"conceptId":4134613,"conceptName":"Eye infection","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"128351009","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":13,"additionalInformation":""},"term":"Ocular Infection"}
+
+{'term': 'Ocular surgery', 'domain': 'Procedure'}
+{"matchScore":0.6652598,"concept":{"conceptId":4261829,"conceptName":"Laser surgery","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"35631009","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":75,"additionalInformation":""},"term":"Laser surgery"}
+
+{'term': 'within 1 month', 'domain': 'Temporal'}
+N/A
+
+{'term': 'Age', 'domain': 'Demographic'}
+N/A
+
+{'term': '> 55 years', 'domain': 'Value'}
+N/A
+
+{'term': 'choroidal neovascularization', 'domain': 'Condition'}
+{"matchScore":0.9337867,"concept":{"conceptId":4294834,"conceptName":"Choroidal retinal neovascularization","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"75971007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":14,"additionalInformation":""},"term":"Choroidal retinal neovascularization"}
+
+{'term': 'Best corrected visual acuity', 'domain': 'Measurement'}
+{"matchScore":0.8645237,"concept":{"conceptId":40768582,"conceptName":"Best corrected visual acuity Left eye","domainId":"Measurement","vocabularyId":"LOINC","conceptClassId":"Clinical Observation","standardConcept":"S","conceptCode":"65897-1","validStartDate":"20110517","validEndDate":"20991231","invalidReason":null,"parentCount":4,"childCount":0,"additionalInformation":""},"term":"Best corrected visual acuity Left eye"}
+
+{'term': 'between 20/20 - 20/400', 'domain': 'Value'}
+N/A
+
+{'term': 'Lesion', 'domain': 'Condition'}
+{"matchScore":0.774341,"concept":{"conceptId":43530620,"conceptName":"Oral lesion","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"1071000119107","validStartDate":"20130731","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":84,"additionalInformation":""},"term":"Oral lesion"}
+
+{'term': 'less than or equal to 12 MPS disc', 'domain': 'Value'}
+N/A
+

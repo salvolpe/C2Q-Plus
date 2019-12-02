@@ -1,0 +1,173 @@
+Processing input.txt.tx.1: malignancy
+
+Phrase: malignancy
+>>>>> Phrase
+malignancy
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C1306459:Primary malignant neoplasm {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Neoplastic Process]
+<<<<< Mappings
+Processing input.txt.tx.1: non-melanoma skin cancer
+
+Phrase: non-melanoma skin cancer
+>>>>> Phrase
+non melanoma skin cancer
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (923):
+   923 N C0151779:Melanoma of skin (Cutaneous Melanoma {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Neoplastic Process]
+   923   C1518422:Not (Negation {LNC,LNC}) [Functional Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: breast cancer
+
+Phrase: breast cancer
+>>>>> Phrase
+breast cancer
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0006142:Malignant neoplasm of breast {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Neoplastic Process]
+<<<<< Mappings
+Processing input.txt.tx.1: prior
+
+Phrase: prior
+>>>>> Phrase
+prior
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0332152:Before {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: radiotherapy
+
+Phrase: radiotherapy
+>>>>> Phrase
+radiotherapy
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0243005:Radiotherapy (Radiation Oncology specialty {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+<<<<< Mappings
+Processing input.txt.tx.1: treatments
+
+Phrase: treatments
+>>>>> Phrase
+treatments
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: neoadjuvant chemotherapy
+
+Phrase: neoadjuvant chemotherapy
+>>>>> Phrase
+neoadjuvant chemotherapy
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C0392920:Chemotherapy regimen (Chemotherapy Regimen {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: Female
+
+Phrase: Female
+>>>>> Phrase
+female
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0043210:Woman {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Population Group]
+<<<<< Mappings
+Processing input.txt.tx.1: adenocarcinoma
+
+Phrase: adenocarcinoma
+>>>>> Phrase
+adenocarcinoma
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0001418:Adenocarcinoma {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Neoplastic Process]
+<<<<< Mappings
+Processing input.txt.tx.1: ductal carcinoma in situ ( DCIS )
+
+Phrase: ductal carcinoma in situ
+>>>>> Phrase
+ductal carcinoma in situ
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0007124:Intraductal carcinoma, noninfiltrating (Noninfiltrating Intraductal Carcinoma {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Neoplastic Process]
+<<<<< Mappings
+Processing input.txt.tx.1: breast-conserving surgery
+
+Phrase: breast-conserving surgery
+>>>>> Phrase
+breast conserving surgery
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (913):
+   913   C0851312:Breast surgery (Breast surgery specialty {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+<<<<< Mappings
+Processing input.txt.tx.1: radiotherapy
+
+Phrase: radiotherapy
+>>>>> Phrase
+radiotherapy
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0243005:Radiotherapy (Radiation Oncology specialty {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+<<<<< Mappings
+Processing input.txt.tx.1: radiotherapy
+
+Phrase: radiotherapy
+>>>>> Phrase
+radiotherapy
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0243005:Radiotherapy (Radiation Oncology specialty {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+<<<<< Mappings
+Processing input.txt.tx.1: between 01-01-2005 and 31-12-2008
+
+Phrase: between 01-01-2005
+>>>>> Phrase
+between 01 01 2005
+<<<<< Phrase
+
+Phrase: and
+>>>>> Phrase
+and
+<<<<< Phrase
+
+Phrase: 31-12-2008
+>>>>> Phrase
+31 12 2008
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (827):
+   827   C0450355:31 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: X-Ray Computed Tomography
+
+Phrase: X-Ray Computed Tomography
+>>>>> Phrase
+x ray computed tomography
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0040404:X-ray tomography (Tomography, X-Ray {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Diagnostic Procedure]
+  1000   C0040405:Computerized transaxial tomography, NOS (X-Ray Computed Tomography {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Diagnostic Procedure]
+<<<<< Mappings
+Processing input.txt.tx.1: original breast cancer
+
+Phrase: original breast cancer
+>>>>> Phrase
+original breast cancer
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (901):
+   901   C0006142:Malignant neoplasm of breast {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Neoplastic Process]
+   901   C0205313:Original {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+<<<<< Mappings

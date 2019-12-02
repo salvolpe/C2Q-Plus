@@ -1,0 +1,111 @@
+Processing input.txt.tx.1: chronic disease
+
+Phrase: chronic disease
+>>>>> Phrase
+chronic disease
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0008679:Chronic disease {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+<<<<< Mappings
+Processing input.txt.tx.1: corticosteroid during the last four weeks
+
+Phrase: corticosteroid during the last four weeks
+>>>>> Phrase
+corticosteroid during the last four weeks
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (753):
+   753   C0001617:Adrenal cortex hormones (Adrenal Cortex Hormones {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Hormone,Organic Chemical,Pharmacologic Substance]
+   753   C0205450:Four {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+   753   C0439230:week {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: adverse events
+
+Phrase: adverse events
+>>>>> Phrase
+adverse events
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0877248:Adverse event {LNC,LNC} [Pathologic Function]
+<<<<< Mappings
+Processing input.txt.tx.1: during the 4 last weeks
+
+Phrase: during the 4 last weeks
+>>>>> Phrase
+during the 4 last weeks
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (804):
+   804   C0439230:week {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   804   C3838679:4+ (4+ Answer to question {LNC,LNC}) [Finding]
+<<<<< Mappings
+Processing input.txt.tx.1: % SaO2
+
+Phrase: % SaO2
+>>>>> Phrase
+sao2
+<<<<< Phrase
+Processing input.txt.tx.1: < 95 %
+
+Phrase: < 95 %
+>>>>> Phrase
+95
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C4517906:95 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: Age
+
+Phrase: Age
+>>>>> Phrase
+age
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0001779:Age {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Attribute]
+<<<<< Mappings
+Processing input.txt.tx.1: between 6 and 36 mo.
+
+Phrase: between 6
+>>>>> Phrase
+between 6
+<<<<< Phrase
+
+Phrase: and
+>>>>> Phrase
+and
+<<<<< Phrase
+
+Phrase: 36 mo.
+>>>>> Phrase
+36 mo
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861   C0026544:Morocco {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Geographic Area]
+   861   C4319606:36 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: % SaO2 3 95 %
+
+Phrase: % SaO2 3 95 %
+>>>>> Phrase
+sao2 3 95
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (827):
+   827   C4517906:95 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+<<<<< Mappings
+Processing input.txt.tx.1: non-opposition
+
+Phrase: non-opposition
+>>>>> Phrase
+non opposition
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (861):
+   861 N C0231519:Gegenhalten {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+   861   C1518422:Not (Negation {LNC,LNC}) [Functional Concept]
+<<<<< Mappings

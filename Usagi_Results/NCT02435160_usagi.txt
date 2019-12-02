@@ -1,0 +1,9 @@
+{'term': 'Hemoglobin', 'domain': 'Measurement'}
+{"matchScore":1.0,"concept":{"conceptId":3000963,"conceptName":"Hemoglobin","domainId":"Measurement","vocabularyId":"LOINC","conceptClassId":"Lab Test","standardConcept":"S","conceptCode":"718-7","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":13,"childCount":0,"additionalInformation":""},"term":"Hemoglobin"}
+
+{'term': '< 6g/dL', 'domain': 'Value'}
+N/A
+
+{'term': 'male', 'domain': 'Demographic'}
+N/A
+

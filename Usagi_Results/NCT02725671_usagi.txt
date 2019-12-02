@@ -1,0 +1,18 @@
+{'term': 'hemodynamic instability', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":4311860,"conceptName":"Hemodynamic instability","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"422773005","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"Hemodynamic instability"}
+
+{'term': 'anaphylactic contrast reaction', 'domain': 'Condition'}
+{"matchScore":0.7341815,"concept":{"conceptId":441202,"conceptName":"Anaphylaxis","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"39579001","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":5,"additionalInformation":""},"term":"Anaphylactic reaction"}
+
+{'term': 'age', 'domain': 'Demographic'}
+N/A
+
+{'term': 'elective cardiac CT examination', 'domain': 'Procedure'}
+{"matchScore":0.647104,"concept":{"conceptId":4083211,"conceptName":"Cardiac CT","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"241547009","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":3,"additionalInformation":""},"term":"Cardiac CT"}
+
+{'term': 'coronary artery disease', 'domain': 'Condition'}
+{"matchScore":0.9705806,"concept":{"conceptId":317576,"conceptName":"Coronary arteriosclerosis","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"53741008","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":17,"additionalInformation":""},"term":"Coronary artery disease"}
+
+{'term': '18 or older', 'domain': 'Value'}
+N/A
+
