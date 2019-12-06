@@ -6,8 +6,8 @@ crohn or ulcerative colitis
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (902):
-   902   C0156147:Crohn's disease of large bowel {ICD10CM,ICD9CM,ICD9CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
-   902   C0009324:Ulcerative colitis (Ulcerative Colitis {ICD10CM,ICD9CM,ICD9CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+   902   C0156147:Crohn's disease of large bowel {SNOMEDCT_US,SNOMEDCT_VET} [Disease or Syndrome]
+   902   C0009324:Ulcerative colitis, NOS (Ulcerative Colitis {SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: polyposis syndrome
 
@@ -17,8 +17,8 @@ polyposis syndrome
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0039082:Syndrome {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
-   861   C0334108:Multiple polyps {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Neoplastic Process]
+   861   C0039082:Syndrome {SNOMEDCT_US} [Disease or Syndrome]
+   861   C0334108:Multiple polyps {SNOMEDCT_US} [Neoplastic Process]
 <<<<< Mappings
 Processing input.txt.tx.1: Adenomatous Polyposis Coli
 
@@ -28,7 +28,7 @@ adenomatous polyposis coli
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0032580:Adenomatous polyposis coli (Adenomatous Polyposis Coli {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Neoplastic Process]
+  1000   C0032580:Adenomatous polyposis coli (Adenomatous Polyposis Coli {SNOMEDCT_US}) [Neoplastic Process]
 <<<<< Mappings
 Processing input.txt.tx.1: colonic resection
 
@@ -38,8 +38,8 @@ colonic resection
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0728940:Excision {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
-   861   C0009368:Colon structure (body structure) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Body Part, Organ, or Organ Component]
+   861   C0728940:Excision {LNC,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+   861   C0009368:Colon structure (body structure) {LNC,SNOMEDCT_US} [Body Part, Organ, or Organ Component]
 <<<<< Mappings
 Processing input.txt.tx.1: appendectomy
 
@@ -49,7 +49,7 @@ appendectomy
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0003611:Appendectomy {ICD9CM,ICD9CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+  1000   C0003611:Appendectomy {SNOMEDCT_US} [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: Previous
 
@@ -59,7 +59,7 @@ previous
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0205156:Previous {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+  1000   C0205156:Previous {LNC,SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Refused consent
 
@@ -69,7 +69,7 @@ refused
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1705116:Refused {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Activity]
+  1000   C1705116:Refused {LNC,SNOMEDCT_US} [Activity]
 <<<<< Mappings
 
 Phrase: consent
@@ -78,7 +78,7 @@ consent
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C2923685:Consent:Finding:Point in time:{Setting}:Document:Patient {LNC,LNC} [Clinical Attribute]
+  1000   C2923685:Consent:Finding:Point in time:{Setting}:Document:Patient {LNC} [Clinical Attribute]
 <<<<< Mappings
 Processing input.txt.tx.1: colonoscopy
 
@@ -88,5 +88,5 @@ colonoscopy
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0009378:Colonoscopy (colonoscopy {ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Diagnostic Procedure]
+  1000   C0009378:Colonoscopy (colonoscopy {LNC,SNOMEDCT_US}) [Diagnostic Procedure]
 <<<<< Mappings

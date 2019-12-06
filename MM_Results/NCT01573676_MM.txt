@@ -6,8 +6,8 @@ osa surgery
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C1274039:General surgery (General surgery specialty {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
-   861   C0520679:Obstructive sleep apnea (Sleep Apnea, Obstructive {ICD9CM,ICD9CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+   861   C1274039:General surgery (General surgery specialty {LNC,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+   861   C0520679:Obstructive sleep apnea (Sleep Apnea, Obstructive {SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: in the past
 
@@ -17,7 +17,7 @@ in the past
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (827):
-   827   C1444637:In the past {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   827   C1444637:In the past {LNC,SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: bariatric surgery
 
@@ -27,7 +27,7 @@ bariatric surgery
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1456587:Bariatric surgery (Bariatric Surgery {LNC,LNC}) [Therapeutic or Preventive Procedure]
+  1000   C1456587:Bariatric surgery (Bariatric Surgery {LNC}) [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: in the past
 
@@ -37,7 +37,7 @@ in the past
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (827):
-   827   C1444637:In the past {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   827   C1444637:In the past {LNC,SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Chronic Obstructive Airway Disease
 
@@ -47,7 +47,7 @@ chronic obstructive airway disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0024117:Chronic obstructive airway disease (Chronic Obstructive Airway Disease {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+  1000   C0024117:Chronic obstructive airway disease (Chronic Obstructive Airway Disease {LNC,SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: altretamine/cisplatin/cyclophosphamide protocol
 
@@ -57,10 +57,10 @@ altretamine cisplatin cyclophosphamide protocol
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (812):
-   812   C0442711:Protocols (Protocols documentation {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Intellectual Product]
-   812   C0008838:Cisplatin {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Inorganic Chemical,Pharmacologic Substance]
-   812   C0010583:Cyclophosphamide {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organic Chemical,Pharmacologic Substance]
-   812   C0019453:Altretamine {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+   812   C0442711:Protocols (Protocols documentation {SNOMEDCT_US}) [Intellectual Product]
+   812   C0008838:Cisplatin {LNC,RXNORM,SNOMEDCT_US} [Inorganic Chemical,Pharmacologic Substance]
+   812   C0010583:Cyclophosphamide {LNC,RXNORM,SNOMEDCT_US} [Organic Chemical,Pharmacologic Substance]
+   812   C0019453:Altretamine {RXNORM,SNOMEDCT_US} [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: cancer
 
@@ -70,7 +70,7 @@ cancer
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1306459:Primary malignant neoplasm {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Neoplastic Process]
+  1000   C1306459:Primary malignant neoplasm {SNOMEDCT_US} [Neoplastic Process]
 <<<<< Mappings
 Processing input.txt.tx.1: chemotherapy
 
@@ -80,7 +80,7 @@ chemotherapy
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0392920:Chemotherapy regimen (Chemotherapy Regimen {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
+  1000   C0392920:Chemotherapy regimen (Chemotherapy Regimen {SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: radiotherapy
 
@@ -90,7 +90,7 @@ radiotherapy
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0243005:Radiotherapy (Radiation Oncology specialty {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+  1000   C0243005:Radiotherapy (Radiation Oncology specialty {LNC,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
 <<<<< Mappings
 Processing input.txt.tx.1: bariatric surgery
 
@@ -100,7 +100,7 @@ bariatric surgery
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1456587:Bariatric surgery (Bariatric Surgery {LNC,LNC}) [Therapeutic or Preventive Procedure]
+  1000   C1456587:Bariatric surgery (Bariatric Surgery {LNC}) [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: age
 
@@ -110,7 +110,7 @@ age
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0001779:Age {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Attribute]
+  1000   C0001779:Age {LNC,SNOMEDCT_US} [Organism Attribute]
 <<<<< Mappings
 Processing input.txt.tx.1: over 18 yrs
 

@@ -6,7 +6,7 @@ contraindication
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0522473:Contraindication {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+  1000   C0522473:Contraindication {SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: oral anticoagulant
 
@@ -16,7 +16,7 @@ oral anticoagulant
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0354604:Oral anticoagulants (oral anticoagulants {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+  1000   C0354604:Oral anticoagulants (oral anticoagulants {SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: Dabigatran
 
@@ -26,7 +26,7 @@ dabigatran
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C2348066:Dabigatran (dabigatran {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+  1000   C2348066:dabigatran {LNC,RXNORM,SNOMEDCT_US} [Organic Chemical,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: Rivaroxaban
 
@@ -36,7 +36,7 @@ rivaroxaban
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1739768:Rivaroxaban (rivaroxaban {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+  1000   C1739768:rivaroxaban {LNC,RXNORM,SNOMEDCT_US} [Organic Chemical,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: Apixaban
 
@@ -46,7 +46,7 @@ apixaban
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1831808:Apixaban (apixaban {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+  1000   C1831808:apixaban {LNC,RXNORM,SNOMEDCT_US} [Organic Chemical,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: Edoxaban
 
@@ -56,7 +56,7 @@ edoxaban
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C2975435:Edoxaban (edoxaban {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+  1000   C2975435:edoxaban {LNC,RXNORM,SNOMEDCT_US} [Organic Chemical,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: indication
 
@@ -66,7 +66,7 @@ indication
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0392360:Indication of (contextual qualifier) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+  1000   C0392360:Indication of (contextual qualifier) {LNC,SNOMEDCT_US} [Idea or Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: treatment
 
@@ -76,7 +76,7 @@ treatment
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+  1000   C0087111:Therapeutic procedure {LNC,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: nex oral anticoagulant within routine treatment
 
@@ -86,9 +86,9 @@ nex oral anticoagulant within routine treatment
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (790):
-   790   C0354604:Oral anticoagulants (oral anticoagulants {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
-   790   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
-   790   C0205547:Routine {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   790   C0354604:Oral anticoagulants (oral anticoagulants {SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+   790   C0087111:Therapeutic procedure {LNC,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+   790   C0205547:Routine {LNC,SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: indication
 
@@ -98,7 +98,7 @@ indication
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0392360:Indication of (contextual qualifier) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+  1000   C0392360:Indication of (contextual qualifier) {LNC,SNOMEDCT_US} [Idea or Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: treatment
 
@@ -108,7 +108,7 @@ treatment
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+  1000   C0087111:Therapeutic procedure {LNC,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: other anticoagulation
 

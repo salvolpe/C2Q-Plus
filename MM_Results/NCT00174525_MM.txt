@@ -6,8 +6,8 @@ significant neurological disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (901):
-   901   C0027765:Nervous system disorders NOS (nervous system disorder {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
-   901   C0750502:Significant {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+   901   C0027765:Nervous system disorders NOS (nervous system disorder {LNC,SNOMEDCT_US,SNOMEDCT_VET}) [Disease or Syndrome]
+   901   C0750502:Significant {SNOMEDCT_US} [Idea or Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Alzheimer's Disease
 
@@ -17,7 +17,7 @@ alzheimer disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0002395:Alzheimer's disease (Alzheimer's Disease {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+  1000   C0002395:Alzheimer's disease (Alzheimer's Disease {LNC,SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: Major psychiatric disorder
 
@@ -27,8 +27,8 @@ major psychiatric disorder
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (901):
-   901   C0004936:Mental disorders NOS (Mental disorders {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Mental or Behavioral Dysfunction]
-   901   C0205164:Major {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   901   C0004936:Mental disorders NOS (Mental disorders {LNC,SNOMEDCT_US}) [Mental or Behavioral Dysfunction]
+   901   C0205164:Major {SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Significant systemic illness
 
@@ -38,8 +38,8 @@ significant systemic illness
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (901):
-   901   C0442893:Systemic disease {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
-   901   C0750502:Significant {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+   901   C0442893:Systemic disease {SNOMEDCT_US} [Disease or Syndrome]
+   901   C0750502:Significant {SNOMEDCT_US} [Idea or Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: stroke
 
@@ -49,7 +49,7 @@ stroke
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0038454:Cerebrovascular accident {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+  1000   C0038454:Cerebrovascular accident {LNC,SNOMEDCT_US} [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: seizure
 
@@ -59,7 +59,7 @@ seizure
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0036572:Seizures {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Sign or Symptom]
+  1000   C0036572:Seizures {LNC,SNOMEDCT_US} [Sign or Symptom]
 <<<<< Mappings
 Processing input.txt.tx.1: Weight
 
@@ -69,7 +69,7 @@ weight
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1305866:Weighing patient {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Health Care Activity]
+  1000   C1305866:Weighing patient {SNOMEDCT_US} [Health Care Activity]
 <<<<< Mappings
 Processing input.txt.tx.1: greater than 120kg ( 264 lbs
 
@@ -79,7 +79,7 @@ greater than 120kg
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (882):
-   882   C0439093:> (Greater Than {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Quantitative Concept]
+   882   C0439093:> (Greater Than {SNOMEDCT_US}) [Quantitative Concept]
 <<<<< Mappings
 
 Phrase: ( 264 lbs
@@ -88,7 +88,7 @@ Phrase: ( 264 lbs
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0439219:pounds (Pounds {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Quantitative Concept]
+   861   C0439219:pounds (Pounds {SNOMEDCT_US}) [Quantitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: autoimmune
 
@@ -98,7 +98,7 @@ autoimmune
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0443146:Autoimmune reaction {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Pathologic Function]
+  1000   C0443146:Autoimmune reaction {SNOMEDCT_US} [Pathologic Function]
 <<<<< Mappings
 Processing input.txt.tx.1: autoimmune disease
 
@@ -108,7 +108,7 @@ autoimmune disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0004364:Autoimmune diseases (Autoimmune Diseases {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+  1000   C0004364:Autoimmune diseases (Autoimmune Diseases {LNC,SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: Smoking
 
@@ -118,7 +118,7 @@ smoking
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0453996:Tobacco smoking behavior {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Individual Behavior]
+  1000   C0453996:Tobacco smoking behavior {SNOMEDCT_US} [Individual Behavior]
 <<<<< Mappings
 Processing input.txt.tx.1: more than 20 cigarettes per day
 
@@ -128,9 +128,9 @@ more than 20 cigarettes
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (770):
-   770   C0205172:More {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
-   770   C0677453:Cigarette {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Manufactured Object]
-   770   C3842589:20% {LNC,LNC} [Quantitative Concept]
+   770   C0205172:More {LNC,SNOMEDCT_US} [Quantitative Concept]
+   770   C0677453:Cigarette {LNC,SNOMEDCT_US} [Manufactured Object]
+   770   C3842589:20% {LNC} [Quantitative Concept]
 <<<<< Mappings
 
 Phrase: per day
@@ -139,7 +139,7 @@ per day
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0439228:day {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   861   C0439228:day {LNC,SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Anticonvulsants
 
@@ -149,7 +149,7 @@ anticonvulsants
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0003286:Anticonvulsants {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Pharmacologic Substance]
+  1000   C0003286:Anticonvulsants {LNC,SNOMEDCT_US} [Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: anti-Parkinson 's
 
@@ -165,7 +165,7 @@ anticoagulant
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0003280:Anticoagulant (Anticoagulants {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Pharmacologic Substance]
+  1000   C0003280:Anticoagulant (Anticoagulants {LNC,SNOMEDCT_US}) [Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: narcotic medications
 
@@ -175,7 +175,7 @@ narcotic medications
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0237425:Narcotic drug (Narcotic Drugs {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biologically Active Substance,Pharmacologic Substance]
+  1000   C0237425:Narcotic drug (Narcotic Drugs {SNOMEDCT_US}) [Biologically Active Substance,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: treatment
 
@@ -185,7 +185,7 @@ treatment
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+  1000   C0087111:Therapeutic procedure {LNC,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: experimental immunotherapeutics
 
@@ -201,7 +201,7 @@ alzheimer disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0002395:Alzheimer's disease (Alzheimer's Disease {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+  1000   C0002395:Alzheimer's disease (Alzheimer's Disease {LNC,SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: pacemakers
 
@@ -211,7 +211,7 @@ pacemakers
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0810633:Pacemaker (Pacemakers {LNC,LNC}) [Medical Device]
+  1000   C0810633:Pacemaker (Pacemakers {LNC}) [Medical Device]
 <<<<< Mappings
 Processing input.txt.tx.1: metal objects
 
@@ -221,7 +221,7 @@ metal
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0025552:Metals {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Inorganic Chemical]
+  1000   C0025552:Metals {LNC,SNOMEDCT_US} [Inorganic Chemical]
 <<<<< Mappings
 
 Phrase: objects
@@ -230,7 +230,7 @@ objects
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0347997:Physical object {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Physical Object]
+  1000   C0347997:Physical object {SNOMEDCT_US} [Physical Object]
 <<<<< Mappings
 Processing input.txt.tx.1: probable AD
 
@@ -240,7 +240,7 @@ probable ad
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (694):
-   694   C0033204:Probable (Probability {LNC,LNC}) [Quantitative Concept]
+   694   C0033204:Probable (Probability {LNC}) [Quantitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Age
 
@@ -250,7 +250,7 @@ age
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0001779:Age {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Attribute]
+  1000   C0001779:Age {LNC,SNOMEDCT_US} [Organism Attribute]
 <<<<< Mappings
 Processing input.txt.tx.1: 50 to 85 years , inclusive
 
@@ -260,9 +260,9 @@ Phrase: 50 to 85 years ,
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (770):
-   770   C0439234:year {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
-   770   C3843766:<50 {LNC,LNC} [Finding]
-   770   C4517892:85 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+   770   C0439234:year {SNOMEDCT_US} [Temporal Concept]
+   770   C3843766:<50 {LNC} [Finding]
+   770   C4517892:85 {SNOMEDCT_US} [Quantitative Concept]
 <<<<< Mappings
 
 Phrase: inclusive
@@ -271,7 +271,7 @@ inclusive
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0332257:Including (Including (qualifier) {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Functional Concept]
+  1000   C0332257:Including (Including (qualifier) {SNOMEDCT_US}) [Functional Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Rosen Modified Hachinski ischemic score
 
@@ -281,9 +281,9 @@ rosen modified hachinski ischemic score
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (804):
-   804   C0449820:Score {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
-   804   C0475224:Ischemic {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Functional Concept]
-   804   C0392747:Changing {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Functional Concept]
+   804   C0449820:Score {LNC,SNOMEDCT_US} [Quantitative Concept]
+   804   C0475224:Ischemic {SNOMEDCT_US} [Functional Concept]
+   804   C0392747:Changing {LNC,SNOMEDCT_US} [Functional Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: less than or equal to 4
 
@@ -293,7 +293,7 @@ less than
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0439092:< (Less Than {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Quantitative Concept]
+  1000   C0439092:< (Less Than {LNC,SNOMEDCT_US}) [Quantitative Concept]
 <<<<< Mappings
 
 Phrase: or
@@ -307,7 +307,7 @@ equal to 4
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (882):
-   882   C0205163:Equal {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   882   C0205163:Equal {SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Magnetic Resonance Imaging
 
@@ -317,7 +317,7 @@ magnetic resonance imaging
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0024485:Magnetic resonance imaging (Magnetic Resonance Imaging {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Diagnostic Procedure]
+  1000   C0024485:Magnetic resonance imaging (Magnetic Resonance Imaging {LNC,SNOMEDCT_US}) [Diagnostic Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: Alzheimer's Disease
 
@@ -327,7 +327,7 @@ alzheimer disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0002395:Alzheimer's disease (Alzheimer's Disease {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+  1000   C0002395:Alzheimer's disease (Alzheimer's Disease {LNC,SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: medications
 
@@ -337,5 +337,5 @@ medications
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C2598133:Medications:-:Point in time:^Patient:- {LNC,LNC} [Clinical Attribute]
+  1000   C2598133:Medications:-:Point in time:^Patient:- {LNC} [Clinical Attribute]
 <<<<< Mappings

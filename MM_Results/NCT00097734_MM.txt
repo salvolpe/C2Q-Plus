@@ -6,7 +6,7 @@ contraindication
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0522473:Contraindication {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+  1000   C0522473:Contraindication {SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: other beta-lactam antibiotics
 
@@ -16,7 +16,7 @@ other beta lactam antibiotics
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (923):
-   923   C0026458:Monobactam (Monobactams {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Antibiotic,Organic Chemical]
+   923   C0026458:Monobactam (Monobactams {SNOMEDCT_US}) [Antibiotic,Organic Chemical]
 <<<<< Mappings
 Processing input.txt.tx.1: advanced renal impairment
 
@@ -26,8 +26,8 @@ advanced renal impairment
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (901):
-   901   C1565489:Impaired renal function (Renal Insufficiency {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
-   901   C0205179:Advanced phase {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   901   C1565489:Renal insufficiency (Renal Insufficiency {SNOMEDCT_US,SNOMEDCT_VET}) [Disease or Syndrome]
+   901   C0205179:Advanced phase {SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: hemodialysis
 
@@ -37,7 +37,7 @@ hemodialysis
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0019004:Hemodialysis {ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+  1000   C0019004:Hemodialysis {LNC,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: Antibiotic therapy
 
@@ -47,7 +47,7 @@ antibiotic therapy
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0338237:Antibiotic therapy {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+  1000   C0338237:Antibiotic therapy {SNOMEDCT_US} [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: in the two weeks
 
@@ -57,7 +57,7 @@ in the two weeks
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C4082118:Two weeks {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   861   C4082118:Two weeks {SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: disease
 
@@ -67,7 +67,7 @@ disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0012634:Disease {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+  1000   C0012634:Disease {LNC,SNOMEDCT_US} [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: hematologic/oncologic disease
 
@@ -77,8 +77,8 @@ hematologic oncologic disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (913):
-   913   C0018939:Blood diseases (Hematological Disease {ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
-   913   C1882062:Neoplastic disease {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Neoplastic Process]
+   913   C0018939:Blood diseases (Hematological Disease {LNC,SNOMEDCT_US}) [Disease or Syndrome]
+   913   C1882062:Neoplastic disease {LNC,SNOMEDCT_US,SNOMEDCT_VET} [Neoplastic Process]
 <<<<< Mappings
 Processing input.txt.tx.1: leukemia
 
@@ -88,7 +88,7 @@ leukemia
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0023418:Leukemia (leukemia {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Neoplastic Process]
+  1000   C0023418:Leukemia (leukemia {LNC,SNOMEDCT_US}) [Neoplastic Process]
 <<<<< Mappings
 Processing input.txt.tx.1: lymphoma
 
@@ -98,7 +98,7 @@ lymphoma
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0024299:Lymphoma {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Neoplastic Process]
+  1000   C0024299:Lymphoma {LNC,SNOMEDCT_US,SNOMEDCT_VET} [Neoplastic Process]
 <<<<< Mappings
 Processing input.txt.tx.1: immunosuppressants
 
@@ -108,7 +108,7 @@ immunosuppressants
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0021081:Immunosuppressive agent (Immunosuppressive Agents {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Immunologic Factor,Pharmacologic Substance]
+  1000   C0021081:Immunosuppressive agent (Immunosuppressive Agents {LNC,SNOMEDCT_US}) [Immunologic Factor,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: Complications
 
@@ -118,7 +118,7 @@ complications
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0009566:Complication {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Pathologic Function]
+  1000   C0009566:Complication {LNC,SNOMEDCT_US} [Pathologic Function]
 <<<<< Mappings
 Processing input.txt.tx.1: sigmoid diverticulitis
 
@@ -128,8 +128,8 @@ sigmoid diverticulitis
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0012813:Diverticulitis {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
-   861   C0227391:Sigmoid colon {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Body Part, Organ, or Organ Component]
+   861   C0012813:Diverticulitis {SNOMEDCT_US} [Disease or Syndrome]
+   861   C0227391:Sigmoid colon {LNC,SNOMEDCT_US} [Body Part, Organ, or Organ Component]
 <<<<< Mappings
 Processing input.txt.tx.1: indication
 
@@ -139,7 +139,7 @@ indication
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0392360:Indication of (contextual qualifier) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+  1000   C0392360:Indication of (contextual qualifier) {LNC,SNOMEDCT_US} [Idea or Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: surgery
 
@@ -149,7 +149,7 @@ surgery
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1274039:General surgery (General surgery specialty {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+  1000   C1274039:General surgery (General surgery specialty {LNC,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
 <<<<< Mappings
 Processing input.txt.tx.1: hypersensitivity
 
@@ -159,7 +159,7 @@ hypersensitivity
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0020517:Hypersensitivity {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Pathologic Function]
+  1000   C0020517:Hypersensitivity {LNC,SNOMEDCT_US} [Pathologic Function]
 <<<<< Mappings
 Processing input.txt.tx.1: beta-lactam antibiotics
 
@@ -169,7 +169,7 @@ beta lactam antibiotics
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0026458:Monobactam (Monobactams {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Antibiotic,Organic Chemical]
+  1000   C0026458:Monobactam (Monobactams {SNOMEDCT_US}) [Antibiotic,Organic Chemical]
 <<<<< Mappings
 Processing input.txt.tx.1: Female
 
@@ -179,7 +179,7 @@ female
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0043210:Woman {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Population Group]
+  1000   C0043210:Woman {SNOMEDCT_US} [Population Group]
 <<<<< Mappings
 Processing input.txt.tx.1: pregnant
 
@@ -189,7 +189,7 @@ pregnant
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0549206:Patient currently pregnant {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+  1000   C0549206:Patient currently pregnant {LNC,SNOMEDCT_US,SNOMEDCT_VET} [Finding]
 <<<<< Mappings
 Processing input.txt.tx.1: another study drug
 
@@ -199,7 +199,7 @@ another study drug
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (901):
-   901   C0013175:Clinical drug trial (Drug Evaluation {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Research Activity]
+   901   C0013175:Clinical drug trial (Drug Evaluation {SNOMEDCT_US}) [Research Activity]
 <<<<< Mappings
 Processing input.txt.tx.1: another drug
 
@@ -209,7 +209,7 @@ another drug
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0013227:Drugs (Pharmaceutical Preparations {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Pharmacologic Substance]
+   861   C0013227:Drugs (Pharmaceutical Preparations {LNC,SNOMEDCT_US}) [Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: within the four weeks
 
@@ -219,8 +219,8 @@ within the four weeks
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (812):
-   812   C0439230:week {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
-   812   C0205450:Four {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+   812   C0439230:week {LNC,SNOMEDCT_US} [Temporal Concept]
+   812   C0205450:Four {SNOMEDCT_US} [Quantitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: symptoms
 
@@ -230,7 +230,7 @@ symptoms
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1457887:Symptoms {ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Sign or Symptom]
+  1000   C1457887:Symptoms {LNC,SNOMEDCT_US} [Sign or Symptom]
 <<<<< Mappings
 Processing input.txt.tx.1: sigmoid diverticulitis
 
@@ -240,8 +240,8 @@ sigmoid diverticulitis
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0012813:Diverticulitis {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
-   861   C0227391:Sigmoid colon {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Body Part, Organ, or Organ Component]
+   861   C0012813:Diverticulitis {SNOMEDCT_US} [Disease or Syndrome]
+   861   C0227391:Sigmoid colon {LNC,SNOMEDCT_US} [Body Part, Organ, or Organ Component]
 <<<<< Mappings
 Processing input.txt.tx.1: * Fever ( body temperature
 
@@ -251,7 +251,7 @@ fever
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0015967:Fever {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Sign or Symptom]
+  1000   C0015967:Fever {LNC,SNOMEDCT_US} [Sign or Symptom]
 <<<<< Mappings
 
 Phrase: ( body temperature
@@ -260,7 +260,7 @@ body temperature
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0005903:Body temperature (Body Temperature {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organism Attribute]
+  1000   C0005903:Body temperature (Body Temperature {LNC,SNOMEDCT_US}) [Organism Attribute]
 <<<<< Mappings
 Processing input.txt.tx.1: Abdominal tenderness
 
@@ -270,7 +270,7 @@ abdominal tenderness
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0232498:Abdominal tenderness {ICD10CM,ICD9CM,ICD9CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Sign or Symptom]
+  1000   C0232498:Abdominal tenderness {SNOMEDCT_US} [Sign or Symptom]
 <<<<< Mappings
 Processing input.txt.tx.1: * Leukocytosis
 
@@ -280,7 +280,7 @@ leukocytosis
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0023518:Leukocytosis {ICD10CM,ICD9CM,ICD9CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+  1000   C0023518:Leukocytosis {SNOMEDCT_US} [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: leukocytes
 
@@ -290,7 +290,7 @@ leukocytes
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0023516:Leukocytes {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Cell]
+  1000   C0023516:Leukocytes {LNC,SNOMEDCT_US} [Cell]
 <<<<< Mappings
 Processing input.txt.tx.1: differential blood count
 
@@ -300,8 +300,8 @@ differential blood count
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (827):
-   827   C0229664:Peripheral blood, NOS (peripheral blood {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Body Substance]
-   827   C0443199:Differential (Differential quality {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Qualitative Concept]
+   827   C0229664:Peripheral blood, NOS (peripheral blood {SNOMEDCT_US}) [Body Substance]
+   827   C0443199:Differential (Differential quality {LNC,SNOMEDCT_US}) [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: * Elevated CRP
 
@@ -311,7 +311,7 @@ elevated crp
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0742906:Elevated C-reactive protein {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+  1000   C0742906:Elevated C-reactive protein {SNOMEDCT_US} [Finding]
 <<<<< Mappings
 Processing input.txt.tx.1: > 38  degrees C
 
@@ -321,7 +321,7 @@ Phrase: > 38  degrees C
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (901):
-   901   C0439237:degrees Celsius {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+   901   C0439237:degrees Celsius {SNOMEDCT_US} [Quantitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: > 10,000 / ul
 
@@ -331,8 +331,8 @@ Phrase: > 10,000 / ul
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (827):
-   827   C1300557:/mm3 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
-   827   C3842590:10% {LNC,LNC} [Quantitative Concept]
+   827   C1300557:/mm3 {SNOMEDCT_US} [Quantitative Concept]
+   827   C3842590:10% {LNC} [Quantitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: > 1 %
 
@@ -342,7 +342,7 @@ Phrase: > 1 %
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C3816745:1+ {LNC,LNC} [Finding]
+  1000   C3816745:1+ {LNC} [Finding]
 <<<<< Mappings
 Processing input.txt.tx.1: > 20 mg/l
 
@@ -352,8 +352,8 @@ Phrase: > 20 mg/l
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (901):
-   901   C0439268:gram/cubic meter (Microgram per Milliliter {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Quantitative Concept]
-   901   C3842589:20% {LNC,LNC} [Quantitative Concept]
+   901   C0439268:gram/cubic meter (Microgram per Milliliter {SNOMEDCT_US}) [Quantitative Concept]
+   901   C3842589:20% {LNC} [Quantitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: sigmoid diverticulitis
 
@@ -363,8 +363,8 @@ sigmoid diverticulitis
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0012813:Diverticulitis {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
-   861   C0227391:Sigmoid colon {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Body Part, Organ, or Organ Component]
+   861   C0012813:Diverticulitis {SNOMEDCT_US} [Disease or Syndrome]
+   861   C0227391:Sigmoid colon {LNC,SNOMEDCT_US} [Body Part, Organ, or Organ Component]
 <<<<< Mappings
 Processing input.txt.tx.1: contrast enema
 
@@ -374,7 +374,7 @@ contrast enema
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1282538:Contrast enema {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Diagnostic Procedure]
+  1000   C1282538:Contrast enema {SNOMEDCT_US} [Diagnostic Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: Central African Republic
 
@@ -384,5 +384,5 @@ central african republic
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0007673:Central African Republic {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Geographic Area]
+  1000   C0007673:Central African Republic {SNOMEDCT_US} [Geographic Area]
 <<<<< Mappings

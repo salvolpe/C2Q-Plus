@@ -6,7 +6,7 @@ debridement
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0011079:Debridement {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+  1000   C0011079:Debridement {LNC,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: indication
 
@@ -16,7 +16,7 @@ indication
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0392360:Indication of (contextual qualifier) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+  1000   C0392360:Indication of (contextual qualifier) {LNC,SNOMEDCT_US} [Idea or Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Skin disease
 
@@ -26,7 +26,7 @@ skin disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0037274:Skin diseases (Dermatologic disorders {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+  1000   C0037274:Skin diseases (Dermatologic disorders {LNC,SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: Clinical disease
 
@@ -36,8 +36,8 @@ clinical disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0012634:Disease {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
-   861   C0205210:Clinical {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   861   C0012634:Disease {LNC,SNOMEDCT_US} [Disease or Syndrome]
+   861   C0205210:Clinical {SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: contraindication
 
@@ -47,7 +47,7 @@ contraindication
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0522473:Contraindication {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+  1000   C0522473:Contraindication {SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: procedure
 
@@ -57,7 +57,7 @@ procedure
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0184661:PROCEDURES (Interventional procedure {ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
+  1000   C0184661:Procedure (Interventional procedure {LNC,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: Clinical disease
 
@@ -67,8 +67,8 @@ clinical disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0012634:Disease {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
-   861   C0205210:Clinical {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   861   C0012634:Disease {LNC,SNOMEDCT_US} [Disease or Syndrome]
+   861   C0205210:Clinical {SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: wound
 
@@ -78,7 +78,7 @@ wound
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0043250:Wound (Injury wounds {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Injury or Poisoning]
+  1000   C0043250:Wound (Injury wounds {LNC,SNOMEDCT_US}) [Injury or Poisoning]
 <<<<< Mappings
 Processing input.txt.tx.1: age
 
@@ -88,7 +88,7 @@ age
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0001779:Age {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Attribute]
+  1000   C0001779:Age {LNC,SNOMEDCT_US} [Organism Attribute]
 <<<<< Mappings
 Processing input.txt.tx.1: More than 18 years
 
@@ -98,8 +98,8 @@ more than 18 years
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (770):
-   770   C0205172:More {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
-   770   C0439234:year {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   770   C0205172:More {LNC,SNOMEDCT_US} [Quantitative Concept]
+   770   C0439234:year {SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Burn
 
@@ -109,7 +109,7 @@ burn
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0006434:Burn injury {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Injury or Poisoning]
+  1000   C0006434:Burn injury {LNC,SNOMEDCT_US} [Injury or Poisoning]
 <<<<< Mappings
 Processing input.txt.tx.1: Debridement
 
@@ -119,7 +119,7 @@ debridement
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0011079:Debridement {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+  1000   C0011079:Debridement {LNC,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: indication
 
@@ -129,7 +129,7 @@ indication
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0392360:Indication of (contextual qualifier) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+  1000   C0392360:Indication of (contextual qualifier) {LNC,SNOMEDCT_US} [Idea or Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: procedure
 
@@ -139,5 +139,5 @@ procedure
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0184661:PROCEDURES (Interventional procedure {ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
+  1000   C0184661:Procedure (Interventional procedure {LNC,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
 <<<<< Mappings

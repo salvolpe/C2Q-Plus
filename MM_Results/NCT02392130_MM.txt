@@ -6,8 +6,8 @@ clinical skin atrophy
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (901):
-   901   C0151514:Atrophic condition of skin {ICD10CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
-   901   C0205210:Clinical {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   901   C0151514:Atrophic condition of skin {SNOMEDCT_US} [Disease or Syndrome]
+   901   C0205210:Clinical {SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: telangiectasia
 
@@ -17,7 +17,7 @@ telangiectasia
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0039446:Telangiectasis {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+  1000   C0039446:Telangiectasis {SNOMEDCT_US} [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: skin condition
 
@@ -27,7 +27,7 @@ skin condition
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1719933:Skin condition (observable entity) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Clinical Attribute]
+  1000   C1719933:Skin condition (observable entity) {LNC,SNOMEDCT_US} [Clinical Attribute]
 <<<<< Mappings
 Processing input.txt.tx.1: response
 
@@ -43,9 +43,9 @@ fitzpatrick skin type iv vi
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (853):
-   853   C1960442:Type 6 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Intellectual Product]
-   853   C0441732:Type 4 {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Classification]
-   853   C0444099:Skin specimen (Skin Specimen {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Body Substance]
+   853   C1960442:Type 6 {SNOMEDCT_US} [Intellectual Product]
+   853   C0441732:Type 4 {LNC,SNOMEDCT_US} [Classification]
+   853   C0444099:Skin specimen (Skin Specimen {SNOMEDCT_US}) [Body Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: infection
 
@@ -55,7 +55,7 @@ infection
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0009450:Communicable disease (Communicable Diseases {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+  1000   C0009450:Communicable disease (Communicable Diseases {LNC,SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: eczema or other relevant skin disease
 
@@ -65,8 +65,8 @@ eczema or other relevant skin disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (827):
-   827   C0037274:Skin diseases (Dermatologic disorders {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
-   827   C0013595:Eczema {ICD10CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+   827   C0037274:Skin diseases (Dermatologic disorders {LNC,SNOMEDCT_US}) [Disease or Syndrome]
+   827   C0013595:Eczema {SNOMEDCT_US} [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: current
 
@@ -76,7 +76,7 @@ current
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0521116:Current (Current (present time) {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Temporal Concept]
+  1000   C0521116:Current (Current (present time) {SNOMEDCT_US}) [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Healthy
 
@@ -86,7 +86,7 @@ healthy
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C3898900:Healthy {LNC,LNC} [Qualitative Concept]
+  1000   C3898900:Healthy {LNC} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: male
 
@@ -96,7 +96,7 @@ male
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0086582:Male (Males {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organism Attribute]
+  1000   C0086582:Male (Males {LNC,SNOMEDCT_US}) [Organism Attribute]
 <<<<< Mappings
 Processing input.txt.tx.1: 25 to 50 years old inclusive
 
@@ -106,10 +106,10 @@ Phrase: 25 to 50 years old inclusive
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (753):
-   753   C0332257:Including (Including (qualifier) {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Functional Concept]
-   753   C0439234:year {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
-   753   C0580836:Old {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
-   753   C3843766:<50 {LNC,LNC} [Finding]
+   753   C0332257:Including (Including (qualifier) {SNOMEDCT_US}) [Functional Concept]
+   753   C0439234:year {SNOMEDCT_US} [Temporal Concept]
+   753   C0580836:Old {SNOMEDCT_US} [Temporal Concept]
+   753   C3843766:<50 {LNC} [Finding]
 <<<<< Mappings
 Processing input.txt.tx.1: age
 
@@ -119,7 +119,7 @@ age
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0001779:Age {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Attribute]
+  1000   C0001779:Age {LNC,SNOMEDCT_US} [Organism Attribute]
 <<<<< Mappings
 Processing input.txt.tx.1: Healthy skin
 
@@ -129,6 +129,6 @@ healthy skin
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0444099:Skin specimen (Skin Specimen {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Body Substance]
-   861   C3898900:Healthy {LNC,LNC} [Qualitative Concept]
+   861   C0444099:Skin specimen (Skin Specimen {SNOMEDCT_US}) [Body Substance]
+   861   C3898900:Healthy {LNC} [Qualitative Concept]
 <<<<< Mappings

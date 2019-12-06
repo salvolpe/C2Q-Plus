@@ -6,7 +6,7 @@ conditions
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (966):
-   966   C0348080:Condition {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   966   C0348080:Condition {LNC,SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Low Back Pain
 
@@ -16,7 +16,7 @@ low back pain
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0024031:Low back pain (Low Back Pain {ICD10CM,ICD9CM,ICD9CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Sign or Symptom]
+  1000   C0024031:Low back pain (Low Back Pain {SNOMEDCT_US}) [Sign or Symptom]
 <<<<< Mappings
 Processing input.txt.tx.1: pain
 
@@ -26,7 +26,7 @@ pain
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0030193:Pain {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Sign or Symptom]
+  1000   C0030193:Pain {LNC,SNOMEDCT_US} [Sign or Symptom]
 <<<<< Mappings
 Processing input.txt.tx.1: Surgery
 
@@ -36,7 +36,7 @@ surgery
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1274039:General surgery (General surgery specialty {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+  1000   C1274039:General surgery (General surgery specialty {LNC,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
 <<<<< Mappings
 Processing input.txt.tx.1: expected surgery
 
@@ -46,8 +46,8 @@ expected surgery
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C1274039:General surgery (General surgery specialty {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
-   861   C0679138:Expectations {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+   861   C1274039:General surgery (General surgery specialty {LNC,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+   861   C0679138:Expectations {SNOMEDCT_US} [Idea or Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: within 3 months
 
@@ -57,7 +57,7 @@ within 3 months
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (901):
-   901   C1442461:3 months (3 Months {LNC,LNC}) [Temporal Concept]
+   901   C1442461:3 months (3 Months {LNC}) [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: scheduled surgery
 
@@ -67,7 +67,7 @@ scheduled surgery
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C3845500:Scheduled surgical procedure {LNC,LNC} [Finding]
+  1000   C3845500:Scheduled surgical procedure {LNC} [Finding]
 <<<<< Mappings
 Processing input.txt.tx.1: procedure
 
@@ -77,7 +77,7 @@ procedure
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0184661:PROCEDURES (Interventional procedure {ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
+  1000   C0184661:Procedure (Interventional procedure {LNC,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: significant disease
 
@@ -87,8 +87,8 @@ significant disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0012634:Disease {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
-   861   C0750502:Significant {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Idea or Concept]
+   861   C0012634:Disease {LNC,SNOMEDCT_US} [Disease or Syndrome]
+   861   C0750502:Significant {SNOMEDCT_US} [Idea or Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: malignancy
 
@@ -98,7 +98,7 @@ malignancy
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1306459:Primary malignant neoplasm {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Neoplastic Process]
+  1000   C1306459:Primary malignant neoplasm {SNOMEDCT_US} [Neoplastic Process]
 <<<<< Mappings
 Processing input.txt.tx.1: basal cell carcinoma
 
@@ -108,7 +108,7 @@ basal cell carcinoma
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0007117:Basal cell carcinoma {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Neoplastic Process]
+  1000   C0007117:Basal cell carcinoma {SNOMEDCT_US,SNOMEDCT_VET} [Neoplastic Process]
 <<<<< Mappings
 Processing input.txt.tx.1: within the past 2 years
 
@@ -118,8 +118,8 @@ within the past 2 years
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (804):
-   804   C0439234:year {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
-   804   C1444637:In the past {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   804   C0439234:year {SNOMEDCT_US} [Temporal Concept]
+   804   C1444637:In the past {LNC,SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: Women
 
@@ -129,7 +129,7 @@ women
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0043210:Woman {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Population Group]
+  1000   C0043210:Woman {SNOMEDCT_US} [Population Group]
 <<<<< Mappings
 Processing input.txt.tx.1: pregnant
 
@@ -139,7 +139,7 @@ pregnant
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0549206:Patient currently pregnant {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+  1000   C0549206:Patient currently pregnant {LNC,SNOMEDCT_US,SNOMEDCT_VET} [Finding]
 <<<<< Mappings
 Processing input.txt.tx.1: breast-feeding
 
@@ -149,7 +149,7 @@ breast feeding
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0006147:Breast feeding, NOS (Breast Feeding {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organism Function]
+  1000   C0006147:Breast feeding, NOS (Breast Feeding {SNOMEDCT_US}) [Organism Function]
 <<<<< Mappings
 Processing input.txt.tx.1: severely impaired liver function
 
@@ -159,8 +159,8 @@ severely impaired liver function
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (923):
-   923   C0086565:Abnormal hepatic function (Liver Dysfunction {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Finding]
-   923   C0205082:Severe (severity modifier) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+   923   C0086565:Abnormal hepatic function (Liver Dysfunction {SNOMEDCT_US}) [Finding]
+   923   C0205082:Severe (severity modifier) {LNC,SNOMEDCT_US} [Finding]
 <<<<< Mappings
 Processing input.txt.tx.1: Severely impaired kidney function
 
@@ -170,8 +170,8 @@ severely impaired kidney function
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (905):
-   905   C1565489:Impaired renal function (Renal Insufficiency {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
-   905   C0205082:Severe (severity modifier) {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+   905   C1565489:Renal insufficiency (Renal Insufficiency {SNOMEDCT_US,SNOMEDCT_VET}) [Disease or Syndrome]
+   905   C0205082:Severe (severity modifier) {LNC,SNOMEDCT_US} [Finding]
 <<<<< Mappings
 Processing input.txt.tx.1: chronic hepatitis
 
@@ -181,7 +181,7 @@ chronic hepatitis
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0019189:Chronic hepatitis NOS (Hepatitis, Chronic {ICD10CM,ICD9CM,ICD9CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+  1000   C0019189:Chronic hepatitis NOS (Hepatitis, Chronic {SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: HIV
 
@@ -191,7 +191,7 @@ hiv
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0019699:HIV seropositivity (HIV Seropositivity {ICD10CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Laboratory or Test Result]
+  1000   C0019699:HIV seropositivity (HIV Seropositivity {SNOMEDCT_US}) [Laboratory or Test Result]
 <<<<< Mappings
 Processing input.txt.tx.1: active hepatitis
 
@@ -201,8 +201,8 @@ active hepatitis
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0019159:Hepatitis A {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
-   861   C0205177:Active {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   861   C0019159:Hepatitis A {SNOMEDCT_US} [Disease or Syndrome]
+   861   C0205177:Active {LNC,SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: in past 3 months
 
@@ -212,8 +212,8 @@ in past 3 months
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (812):
-   812   C0439231:month {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
-   812   C1444637:In the past {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   812   C0439231:month {LNC,SNOMEDCT_US} [Temporal Concept]
+   812   C1444637:In the past {LNC,SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: seizure disorder
 
@@ -223,7 +223,7 @@ seizure disorder
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0014544:Epilepsy {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+  1000   C0014544:Epilepsy {LNC,SNOMEDCT_US} [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: Alcohol
 
@@ -233,7 +233,7 @@ alcohol
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0001962:Ethanol {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organic Chemical,Pharmacologic Substance]
+  1000   C0001962:Ethanol {LNC,RXNORM,SNOMEDCT_US} [Organic Chemical,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: drug abuse
 
@@ -243,7 +243,7 @@ drug abuse
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0013146:Drug abuse {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Mental or Behavioral Dysfunction]
+  1000   C0013146:Drug abuse {LNC,SNOMEDCT_US} [Mental or Behavioral Dysfunction]
 <<<<< Mappings
 Processing input.txt.tx.1: Uncontrolled high blood pressure
 
@@ -253,8 +253,8 @@ uncontrolled high blood pressure
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (923):
-   923   C2926615:Ever told by doctor or nurse that you have high blood pressure:Finding:Point in time:^Patient:Ordinal {LNC,LNC} [Clinical Attribute]
-   923   C0205318:Uncontrolled {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   923   C2926615:Ever told by doctor or nurse that you have high blood pressure:Finding:Point in time:^Patient:Ordinal {LNC} [Clinical Attribute]
+   923   C0205318:Uncontrolled {SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: hypersensitivity
 
@@ -264,7 +264,7 @@ hypersensitivity
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0020517:Hypersensitivity {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Pathologic Function]
+  1000   C0020517:Hypersensitivity {LNC,SNOMEDCT_US} [Pathologic Function]
 <<<<< Mappings
 Processing input.txt.tx.1: allergy
 
@@ -274,7 +274,7 @@ allergy
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0002111:Allergy - specialty (Allergy Specialty {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Biomedical Occupation or Discipline]
+  1000   C0002111:Allergy - specialty (Allergy Specialty {SNOMEDCT_US}) [Biomedical Occupation or Discipline]
 <<<<< Mappings
 Processing input.txt.tx.1: contraindications
 
@@ -284,7 +284,7 @@ contraindications
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C1301624:Medical contraindication {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+  1000   C1301624:Medical contraindication {LNC,SNOMEDCT_US} [Finding]
 <<<<< Mappings
 Processing input.txt.tx.1: acetaminophen
 
@@ -294,7 +294,7 @@ acetaminophen
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0000970:Acetaminophen {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organic Chemical,Pharmacologic Substance]
+  1000   C0000970:Acetaminophen {LNC,RXNORM,SNOMEDCT_US} [Organic Chemical,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: opioid analgesics
 
@@ -304,7 +304,7 @@ opioid analgesics
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0002772:Opioid analgesics (Analgesics, Opioid {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
+  1000   C0002772:Opioid analgesics (Analgesics, Opioid {SNOMEDCT_US}) [Organic Chemical,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: ingredients
 
@@ -320,7 +320,7 @@ low back pain
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0024031:Low back pain (Low Back Pain {ICD10CM,ICD9CM,ICD9CM,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Sign or Symptom]
+  1000   C0024031:Low back pain (Low Back Pain {SNOMEDCT_US}) [Sign or Symptom]
 <<<<< Mappings
 Processing input.txt.tx.1: non-malignant origin
 
@@ -330,9 +330,9 @@ non malignant origin
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (827):
-   827   C0439659:Origins (Beginning {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Temporal Concept]
-   827   C0205282:Malignant (Malignant - descriptor {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Qualitative Concept]
-   827   C1518422:Not (Negation {LNC,LNC}) [Functional Concept]
+   827   C0439659:Origins (Beginning {LNC,SNOMEDCT_US}) [Temporal Concept]
+   827   C0205282:Malignant (Malignant - descriptor {LNC,SNOMEDCT_US}) [Qualitative Concept]
+   827   C1518422:Not (Negation {LNC}) [Functional Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: at least 3 months
 
@@ -342,7 +342,7 @@ at least 3 months
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (812):
-   812   C0439231:month {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   812   C0439231:month {LNC,SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: drug treatment
 
@@ -352,7 +352,7 @@ drug treatment
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0150270:Medication Management {ICD10PCS,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Health Care Activity]
+  1000   C0150270:Medication Management {ICD10PCS,SNOMEDCT_US} [Health Care Activity]
 <<<<< Mappings
 Processing input.txt.tx.1: pain
 
@@ -362,7 +362,7 @@ pain
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0030193:Pain {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Sign or Symptom]
+  1000   C0030193:Pain {LNC,SNOMEDCT_US} [Sign or Symptom]
 <<<<< Mappings
 Processing input.txt.tx.1: therapy
 
@@ -372,7 +372,7 @@ therapy
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+  1000   C0087111:Therapeutic procedure {LNC,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: at least 3 months
 
@@ -382,7 +382,7 @@ at least 3 months
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (812):
-   812   C0439231:month {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   812   C0439231:month {LNC,SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: current
 
@@ -392,7 +392,7 @@ current
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0521116:Current (Current (present time) {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Temporal Concept]
+  1000   C0521116:Current (Current (present time) {SNOMEDCT_US}) [Temporal Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: opioid treatment
 
@@ -402,8 +402,8 @@ opioid treatment
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
-   861   C0242402:Opioid (Opioids {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+   861   C0087111:Therapeutic procedure {LNC,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+   861   C0242402:Opioid (Opioids {LNC,SNOMEDCT_US}) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
 <<<<< Mappings
 Processing input.txt.tx.1: daily opioid dose < = 160 mg/day of oral morphine equivalent
 
@@ -413,9 +413,9 @@ daily opioid dose
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (827):
-   827   C0178602:Dosage {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
-   827   C0242402:Opioid (Opioids {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
-   827   C0332173:Daily {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   827   C0178602:Dosage {LNC,SNOMEDCT_US} [Quantitative Concept]
+   827   C0242402:Opioid (Opioids {LNC,SNOMEDCT_US}) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+   827   C0332173:Daily {LNC,SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 
 Phrase: <
@@ -428,9 +428,9 @@ Phrase: = 160 mg/day of oral morphine equivalent
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (778):
-   778   C0439422:milligram/day {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
-   778   C0360457:Oral morphine (Morphine Oral Product {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Clinical Drug]
-   778   C0205163:Equal {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+   778   C0439422:milligram/day {SNOMEDCT_US} [Quantitative Concept]
+   778   C0360457:Morphine Oral Product {RXNORM,SNOMEDCT_US} [Clinical Drug]
+   778   C0205163:Equal {SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: baseline score
 
@@ -440,8 +440,8 @@ baseline score
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0449820:Score {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
-   861   C1442488:Baseline {LNC,LNC} [Quantitative Concept]
+   861   C0449820:Score {LNC,SNOMEDCT_US} [Quantitative Concept]
+   861   C1442488:Baseline {LNC} [Quantitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: 11-point NRS
 
@@ -457,7 +457,7 @@ pain
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0030193:Pain {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Sign or Symptom]
+  1000   C0030193:Pain {LNC,SNOMEDCT_US} [Sign or Symptom]
 <<<<< Mappings
 Processing input.txt.tx.1: > = 5
 
@@ -471,7 +471,7 @@ Phrase: = 5
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0439084:>5 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+  1000   C0439084:>5 {SNOMEDCT_US} [Quantitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: treatment
 
@@ -481,7 +481,7 @@ treatment
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0087111:Therapeutic procedure {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
+  1000   C0087111:Therapeutic procedure {LNC,SNOMEDCT_US} [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: during the last 3 days
 
@@ -491,6 +491,6 @@ during the last 3 days
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (804):
-   804   C0439228:day {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
-   804   C1517741:Last {LNC,LNC} [Qualitative Concept]
+   804   C0439228:day {LNC,SNOMEDCT_US} [Temporal Concept]
+   804   C1517741:Last {LNC} [Qualitative Concept]
 <<<<< Mappings

@@ -6,7 +6,7 @@ condition
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0348080:Condition {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Qualitative Concept]
+  1000   C0348080:Condition {LNC,SNOMEDCT_US} [Qualitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: chronic disease
 
@@ -16,7 +16,7 @@ chronic disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0008679:Chronic disease {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+  1000   C0008679:Chronic disease {SNOMEDCT_US} [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: carbohydrate
 
@@ -26,7 +26,7 @@ carbohydrate
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0007004:Carbohydrates {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organic Chemical]
+  1000   C0007004:Carbohydrates {LNC,SNOMEDCT_US} [Organic Chemical]
 <<<<< Mappings
 Processing input.txt.tx.1: disorder
 
@@ -36,7 +36,7 @@ disorder
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0012634:Disease {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+  1000   C0012634:Disease {LNC,SNOMEDCT_US} [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: medications
 
@@ -46,7 +46,7 @@ medications
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C2598133:Medications:-:Point in time:^Patient:- {LNC,LNC} [Clinical Attribute]
+  1000   C2598133:Medications:-:Point in time:^Patient:- {LNC} [Clinical Attribute]
 <<<<< Mappings
 Processing input.txt.tx.1: Healthy children between
 
@@ -56,7 +56,7 @@ healthy children between
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (866):
-   866   C0686744:Well child {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
+   866   C0686744:Well child {SNOMEDCT_US} [Finding]
 <<<<< Mappings
 Processing input.txt.tx.1: ages
 
@@ -66,7 +66,7 @@ ages
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0001779:Age {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Attribute]
+  1000   C0001779:Age {LNC,SNOMEDCT_US} [Organism Attribute]
 <<<<< Mappings
 Processing input.txt.tx.1: 5 months and 3 years
 
@@ -76,7 +76,7 @@ Phrase: 5 months and 3 years
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (804):
-   804   C0439234:year {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
-   804   C0439084:>5 {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
-   804   C0439231:month {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   804   C0439234:year {SNOMEDCT_US} [Temporal Concept]
+   804   C0439084:>5 {SNOMEDCT_US} [Quantitative Concept]
+   804   C0439231:month {LNC,SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings

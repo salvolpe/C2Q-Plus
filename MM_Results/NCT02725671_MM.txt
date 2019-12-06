@@ -6,7 +6,7 @@ hemodynamic instability
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0948268:Hemodynamic instability {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Disease or Syndrome]
+  1000   C0948268:Hemodynamic instability {LNC,SNOMEDCT_US} [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: anaphylactic contrast reaction
 
@@ -16,8 +16,8 @@ anaphylactic contrast reaction
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (913):
-   913   C0002792:Anaphylaxis (anaphylaxis {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
-   913   C0009924:Contrast media (Contrast Media {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Indicator, Reagent, or Diagnostic Aid]
+   913   C0002792:Anaphylaxis (anaphylaxis {LNC,SNOMEDCT_US}) [Disease or Syndrome]
+   913   C0009924:Contrast media (Contrast Media {LNC,SNOMEDCT_US}) [Indicator, Reagent, or Diagnostic Aid]
 <<<<< Mappings
 Processing input.txt.tx.1: age
 
@@ -27,7 +27,7 @@ age
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0001779:Age {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Organism Attribute]
+  1000   C0001779:Age {LNC,SNOMEDCT_US} [Organism Attribute]
 <<<<< Mappings
 Processing input.txt.tx.1: elective cardiac CT examination
 
@@ -37,9 +37,9 @@ elective cardiac ct examination
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (875):
-   875   C0562319:Examination of heart {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Health Care Activity]
-   875   C0007673:Central African Republic {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Geographic Area]
-   875   C0206058:Elective surgery (Elective Surgical Procedures {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
+   875   C0562319:Examination of heart {SNOMEDCT_US} [Health Care Activity]
+   875   C0007673:Central African Republic {SNOMEDCT_US} [Geographic Area]
+   875   C0206058:Elective surgery (Elective Surgical Procedures {HCPCS,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: coronary artery disease
 
@@ -49,7 +49,7 @@ coronary artery disease
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0010054:Coronary arteriosclerosis (Coronary Arteriosclerosis {ICD10CM,ICD9CM,ICD9CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+  1000   C0010054:Coronary arteriosclerosis (Coronary Arteriosclerosis {LNC,SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: 18 or older
 
@@ -69,5 +69,5 @@ older
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (966):
-   966   C0580836:Old {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   966   C0580836:Old {SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings

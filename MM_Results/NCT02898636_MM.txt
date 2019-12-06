@@ -4,6 +4,10 @@ Phrase: Immunocompromised
 >>>>> Phrase
 immunocompromised
 <<<<< Phrase
+>>>>> Mappings
+Meta Mapping (1000):
+  1000   C0085393:Immunocompromised (Immunocompromised Host {SNOMEDCT_VET}) [Finding]
+<<<<< Mappings
 Processing input.txt.tx.1: HIV Infections
 
 Phrase: HIV Infections
@@ -12,7 +16,7 @@ hiv infections
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0019693:HIV infection (HIV Infections {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Disease or Syndrome]
+  1000   C0019693:HIV infection (HIV Infections {LNC,SNOMEDCT_US}) [Disease or Syndrome]
 <<<<< Mappings
 Processing input.txt.tx.1: immunosuppressive therapy
 
@@ -22,7 +26,7 @@ immunosuppressive therapy
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0021079:Immunosuppression (Therapeutic immunosuppression {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
+  1000   C0021079:Immunosuppression (Therapeutic immunosuppression {SNOMEDCT_US}) [Therapeutic or Preventive Procedure]
 <<<<< Mappings
 Processing input.txt.tx.1: Putrefaction signs
 
@@ -32,8 +36,8 @@ putrefaction signs
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0311392:Physical findings {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Finding]
-   861   C0333532:Putrefaction {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Pathologic Function]
+   861   C0311392:Physical findings {LNC,SNOMEDCT_US} [Finding]
+   861   C0333532:Putrefaction {SNOMEDCT_US} [Pathologic Function]
 <<<<< Mappings
 Processing input.txt.tx.1: 18 years or more
 
@@ -43,7 +47,7 @@ Phrase: 18 years
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (861):
-   861   C0439234:year {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
+   861   C0439234:year {SNOMEDCT_US} [Temporal Concept]
 <<<<< Mappings
 
 Phrase: or
@@ -57,7 +61,7 @@ more
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0205172:More {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+  1000   C0205172:More {LNC,SNOMEDCT_US} [Quantitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: wound
 
@@ -67,7 +71,7 @@ wound
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0043250:Wound (Injury wounds {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Injury or Poisoning]
+  1000   C0043250:Wound (Injury wounds {LNC,SNOMEDCT_US}) [Injury or Poisoning]
 <<<<< Mappings
 Processing input.txt.tx.1: death
 
@@ -77,7 +81,7 @@ death
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0011065:Death (Cessation of life {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organism Function]
+  1000   C0011065:Death (Cessation of life {LNC,SNOMEDCT_US}) [Organism Function]
 <<<<< Mappings
 Processing input.txt.tx.1: at least one recent
 
@@ -87,8 +91,8 @@ at least one recent
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (812):
-   812   C0332185:Recent {SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Temporal Concept]
-   812   C0205447:One {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US} [Quantitative Concept]
+   812   C0332185:Recent {SNOMEDCT_US} [Temporal Concept]
+   812   C0205447:One {LNC,SNOMEDCT_US} [Quantitative Concept]
 <<<<< Mappings
 Processing input.txt.tx.1: death
 
@@ -98,7 +102,7 @@ death
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0011065:Death (Cessation of life {LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Organism Function]
+  1000   C0011065:Death (Cessation of life {LNC,SNOMEDCT_US}) [Organism Function]
 <<<<< Mappings
 Processing input.txt.tx.1: wound
 
@@ -108,5 +112,5 @@ wound
 <<<<< Phrase
 >>>>> Mappings
 Meta Mapping (1000):
-  1000   C0043250:Wound (Injury wounds {ICD10CM,LNC,LNC,SNOMEDCT_US,SNOMEDCT_US,SNOMEDCT_US}) [Injury or Poisoning]
+  1000   C0043250:Wound (Injury wounds {LNC,SNOMEDCT_US}) [Injury or Poisoning]
 <<<<< Mappings
