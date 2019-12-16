@@ -1,0 +1,18 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT01301118,debridement,debridement,1000,C0011079,Debridement ,Debridement ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01301118,indication,indication,1000,C0392360,Indication of (contextual qualifier),Indication of (contextual qualifier),"LNC,SNOMEDCT_US",Idea or Concept
+NCT01301118,Skin disease,Skin disease,1000,C0037274,Skin diseases,Dermatologic disorders,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT01301118,Clinical disease,Clinical disease,861,C0012634,Disease ,Disease ,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT01301118,Clinical disease,Clinical disease,861,C0205210,Clinical ,Clinical ,SNOMEDCT_US,Qualitative Concept
+NCT01301118,contraindication,contraindication,1000,C0522473,Contraindication ,Contraindication ,SNOMEDCT_US,Qualitative Concept
+NCT01301118,procedure,procedure,1000,C0184661,Procedure,Interventional procedure,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01301118,Clinical disease,Clinical disease,861,C0012634,Disease ,Disease ,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT01301118,Clinical disease,Clinical disease,861,C0205210,Clinical ,Clinical ,SNOMEDCT_US,Qualitative Concept
+NCT01301118,wound,wound,1000,C0043250,Wound,Injury wounds,"LNC,SNOMEDCT_US",Injury or Poisoning
+NCT01301118,age,age,1000,C0001779,Age ,Age ,"LNC,SNOMEDCT_US",Organism Attribute
+NCT01301118,More than 18 years,More than 18 years,770,C0205172,More ,More ,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT01301118,More than 18 years,More than 18 years,770,C0439234,year ,year ,SNOMEDCT_US,Temporal Concept
+NCT01301118,Burn,Burn,1000,C0006434,Burn injury ,Burn injury ,"LNC,SNOMEDCT_US",Injury or Poisoning
+NCT01301118,Debridement,Debridement,1000,C0011079,Debridement ,Debridement ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01301118,indication,indication,1000,C0392360,Indication of (contextual qualifier),Indication of (contextual qualifier),"LNC,SNOMEDCT_US",Idea or Concept
+NCT01301118,procedure,procedure,1000,C0184661,Procedure,Interventional procedure,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure

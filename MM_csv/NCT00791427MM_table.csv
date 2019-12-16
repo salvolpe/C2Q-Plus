@@ -1,0 +1,31 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT00791427,treatment,treatment,1000,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT00791427,anti-VEGF agent,anti-VEGF agent,827,C1254351,Drug,Pharmacologic Substance,LNC,Pharmacologic Substance
+NCT00791427,anti-VEGF agent,anti-VEGF agent,827,C0796392,bevacizumab ,bevacizumab ,"RXNORM,SNOMEDCT_US","Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance"
+NCT00791427,within 6 months,within 6 months,827,C0439231,month ,month ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT00791427,Pregnancy,Pregnancy,1000,C0032961,Pregnancy ,Pregnancy ,"LNC,SNOMEDCT_US",Organism Function
+NCT00791427,positive pregnancy test,positive pregnancy test,1000,C0240802,Pregnancy test positive ,Pregnancy test positive ,SNOMEDCT_US,Laboratory or Test Result
+NCT00791427,women,women,1000,C0043210,Woman ,Woman ,SNOMEDCT_US,Population Group
+NCT00791427,contraception,contraception,1000,C0700589,Birth control,Contraceptive methods,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT00791427,condition,condition,1000,C0348080,Condition ,Condition ,"LNC,SNOMEDCT_US",Qualitative Concept
+NCT00791427,investigational therapy,investigational therapy,861,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT00791427,investigational therapy,investigational therapy,861,C0220825,Evaluation ,Evaluation ,LNC,Health Care Activity
+NCT00791427,Other causes of CNV,Other causes of CNV,770,C1314792,Etiology ,Etiology ,SNOMEDCT_US,Functional Concept
+NCT00791427,Glycogen storage disease type II,Glycogen storage disease type II,1000,C0017921,Glycogen storage disease type II ,Glycogen storage disease type II ,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00791427,Active ocular,Active ocular,861,C1299003,Ocular,Ocular (qualifier),SNOMEDCT_US,Functional Concept
+NCT00791427,Active ocular,Active ocular,861,C0205177,Active ,Active ,"LNC,SNOMEDCT_US",Qualitative Concept
+NCT00791427,peri-ocular infection,peri-ocular infection,901,C0015403,Eye infection,Eye Infection,SNOMEDCT_US,Disease or Syndrome
+NCT00791427,peri-ocular infection,peri-ocular infection,901,C0347985,During values ,During values ,SNOMEDCT_US,Temporal Concept
+NCT00791427,Ocular surgery,Ocular surgery,1000,C1705869,Eye surgery,Ophthalmic surgery specialty,SNOMEDCT_US,Biomedical Occupation or Discipline
+NCT00791427,within 1 month,within 1 month,901,C1442451,1Mo,1 Month,LNC,Temporal Concept
+NCT00791427,Age,Age,1000,C0001779,Age ,Age ,"LNC,SNOMEDCT_US",Organism Attribute
+NCT00791427,> 55 years,> 55 years,861,C0439234,year ,year ,SNOMEDCT_US,Temporal Concept
+NCT00791427,> 55 years,> 55 years,861,C0450382,55 ,55 ,SNOMEDCT_US,Intellectual Product
+NCT00791427,choroidal neovascularization,choroidal neovascularization,861,C0027686,Neovascularity,Pathologic Neovascularization,SNOMEDCT_US,Pathologic Function
+NCT00791427,choroidal neovascularization,choroidal neovascularization,861,C0008520,"Choroid, NOS",Choroid,SNOMEDCT_US,"Body Part, Organ, or Organ Component"
+NCT00791427,Best corrected visual acuity,Best corrected visual acuity,1000,C1690532,Best corrected visual acuity ,Best corrected visual acuity ,"LNC,SNOMEDCT_US",Finding
+NCT00791427,between 20/20 - 20/400,between 20/20 - 20/400,875,C0442765,20/400 ,20/400 ,"LNC,SNOMEDCT_US",Finding
+NCT00791427,Lesion,Lesion,1000,C0221198,Lesion ,Lesion ,SNOMEDCT_US,Finding
+NCT00791427,less than or equal to 12 MPS disc,less than,1000,C0439092,<,Less Than,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT00791427,less than or equal to 12 MPS disc,or,806,C0205163,Equal ,Equal ,SNOMEDCT_US,Qualitative Concept
+NCT00791427,less than or equal to 12 MPS disc,or,806,C1705370,Disc - unit of product usage,Disk Dosing Unit,SNOMEDCT_US,Quantitative Concept

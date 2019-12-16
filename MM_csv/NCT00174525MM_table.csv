@@ -1,0 +1,44 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT00174525,Significant neurological disease,Significant neurological disease,901,C0027765,Nervous system disorders NOS,nervous system disorder,"LNC,SNOMEDCT_US,SNOMEDCT_VET",Disease or Syndrome
+NCT00174525,Significant neurological disease,Significant neurological disease,901,C0750502,Significant ,Significant ,SNOMEDCT_US,Idea or Concept
+NCT00174525,Alzheimer's Disease,Alzheimer's Disease,1000,C0002395,Alzheimer's disease,Alzheimer's Disease,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00174525,Major psychiatric disorder,Major psychiatric disorder,901,C0004936,Mental disorders NOS,Mental disorders,"LNC,SNOMEDCT_US",Mental or Behavioral Dysfunction
+NCT00174525,Major psychiatric disorder,Major psychiatric disorder,901,C0205164,Major ,Major ,SNOMEDCT_US,Qualitative Concept
+NCT00174525,Significant systemic illness,Significant systemic illness,901,C0442893,Systemic disease ,Systemic disease ,SNOMEDCT_US,Disease or Syndrome
+NCT00174525,Significant systemic illness,Significant systemic illness,901,C0750502,Significant ,Significant ,SNOMEDCT_US,Idea or Concept
+NCT00174525,stroke,stroke,1000,C0038454,Cerebrovascular accident ,Cerebrovascular accident ,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00174525,seizure,seizure,1000,C0036572,Seizures ,Seizures ,"LNC,SNOMEDCT_US",Sign or Symptom
+NCT00174525,Weight,Weight,1000,C1305866,Weighing patient ,Weighing patient ,SNOMEDCT_US,Health Care Activity
+NCT00174525,greater than 120kg ( 264 lbs,greater than 120kg,882,C0439093,>,Greater Than,SNOMEDCT_US,Quantitative Concept
+NCT00174525,greater than 120kg ( 264 lbs,( 264 lbs,861,C0439219,pounds,Pounds,SNOMEDCT_US,Quantitative Concept
+NCT00174525,autoimmune,autoimmune,1000,C0443146,Autoimmune reaction ,Autoimmune reaction ,SNOMEDCT_US,Pathologic Function
+NCT00174525,autoimmune disease,autoimmune disease,1000,C0004364,Autoimmune diseases,Autoimmune Diseases,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00174525,Smoking,Smoking,1000,C0453996,Tobacco smoking behavior ,Tobacco smoking behavior ,SNOMEDCT_US,Individual Behavior
+NCT00174525,more than 20 cigarettes per day,more than 20 cigarettes,770,C0205172,More ,More ,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT00174525,more than 20 cigarettes per day,more than 20 cigarettes,770,C0677453,Cigarette ,Cigarette ,"LNC,SNOMEDCT_US",Manufactured Object
+NCT00174525,more than 20 cigarettes per day,more than 20 cigarettes,770,C3842589,20% ,20% ,LNC,Quantitative Concept
+NCT00174525,more than 20 cigarettes per day,per day,861,C0439228,day ,day ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT00174525,Anticonvulsants,Anticonvulsants,1000,C0003286,Anticonvulsants ,Anticonvulsants ,"LNC,SNOMEDCT_US",Pharmacologic Substance
+NCT00174525,anti-Parkinson 's,anti-Parkinson,0,N/A,N/A,N/A,N/A,N/A
+NCT00174525,anticoagulant,anticoagulant,1000,C0003280,Anticoagulant,Anticoagulants,"LNC,SNOMEDCT_US",Pharmacologic Substance
+NCT00174525,narcotic medications,narcotic medications,1000,C0237425,Narcotic drug,Narcotic Drugs,SNOMEDCT_US,"Biologically Active Substance,Pharmacologic Substance"
+NCT00174525,treatment,treatment,1000,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT00174525,experimental immunotherapeutics,experimental immunotherapeutics,0,N/A,N/A,N/A,N/A,N/A
+NCT00174525,Alzheimer's Disease,Alzheimer's Disease,1000,C0002395,Alzheimer's disease,Alzheimer's Disease,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00174525,pacemakers,pacemakers,1000,C0810633,Pacemaker,Pacemakers,LNC,Medical Device
+NCT00174525,metal objects,metal,1000,C0025552,Metals ,Metals ,"LNC,SNOMEDCT_US",Inorganic Chemical
+NCT00174525,metal objects,objects,1000,C0347997,Physical object ,Physical object ,SNOMEDCT_US,Physical Object
+NCT00174525,probable AD,probable AD,694,C0033204,Probable,Probability,LNC,Quantitative Concept
+NCT00174525,Age,Age,1000,C0001779,Age ,Age ,"LNC,SNOMEDCT_US",Organism Attribute
+NCT00174525,"50 to 85 years , inclusive","50 to 85 years ,",770,C0439234,year ,year ,SNOMEDCT_US,Temporal Concept
+NCT00174525,"50 to 85 years , inclusive","50 to 85 years ,",770,C3843766,<50 ,<50 ,LNC,Finding
+NCT00174525,"50 to 85 years , inclusive","50 to 85 years ,",770,C4517892,85 ,85 ,SNOMEDCT_US,Quantitative Concept
+NCT00174525,"50 to 85 years , inclusive",inclusive,1000,C0332257,Including,Including (qualifier),SNOMEDCT_US,Functional Concept
+NCT00174525,Rosen Modified Hachinski ischemic score,Rosen Modified Hachinski ischemic score,804,C0449820,Score ,Score ,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT00174525,Rosen Modified Hachinski ischemic score,Rosen Modified Hachinski ischemic score,804,C0475224,Ischemic ,Ischemic ,SNOMEDCT_US,Functional Concept
+NCT00174525,Rosen Modified Hachinski ischemic score,Rosen Modified Hachinski ischemic score,804,C0392747,Changing ,Changing ,"LNC,SNOMEDCT_US",Functional Concept
+NCT00174525,less than or equal to 4,less than,1000,C0439092,<,Less Than,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT00174525,less than or equal to 4,or,882,C0205163,Equal ,Equal ,SNOMEDCT_US,Qualitative Concept
+NCT00174525,Magnetic Resonance Imaging,Magnetic Resonance Imaging,1000,C0024485,Magnetic resonance imaging,Magnetic Resonance Imaging,"LNC,SNOMEDCT_US",Diagnostic Procedure
+NCT00174525,Alzheimer's Disease,Alzheimer's Disease,1000,C0002395,Alzheimer's disease,Alzheimer's Disease,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00174525,medications,medications,1000,C2598133,Medications:-:Point in time:^Patient:- ,Medications:-:Point in time:^Patient:- ,LNC,Clinical Attribute

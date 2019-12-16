@@ -1,0 +1,14 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT02898636,Immunocompromised,Immunocompromised,1000,C0085393,Immunocompromised,Immunocompromised Host,SNOMEDCT_VET,Finding
+NCT02898636,HIV Infections,HIV Infections,1000,C0019693,HIV infection,HIV Infections,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT02898636,immunosuppressive therapy,immunosuppressive therapy,1000,C0021079,Immunosuppression,Therapeutic immunosuppression,SNOMEDCT_US,Therapeutic or Preventive Procedure
+NCT02898636,Putrefaction signs,Putrefaction signs,861,C0311392,Physical findings ,Physical findings ,"LNC,SNOMEDCT_US",Finding
+NCT02898636,Putrefaction signs,Putrefaction signs,861,C0333532,Putrefaction ,Putrefaction ,SNOMEDCT_US,Pathologic Function
+NCT02898636,18 years or more,18 years,861,C0439234,year ,year ,SNOMEDCT_US,Temporal Concept
+NCT02898636,18 years or more,or,1000,C0205172,More ,More ,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT02898636,wound,wound,1000,C0043250,Wound,Injury wounds,"LNC,SNOMEDCT_US",Injury or Poisoning
+NCT02898636,death,death,1000,C0011065,Death,Cessation of life,"LNC,SNOMEDCT_US",Organism Function
+NCT02898636,at least one recent,at least one recent,812,C0332185,Recent ,Recent ,SNOMEDCT_US,Temporal Concept
+NCT02898636,at least one recent,at least one recent,812,C0205447,One ,One ,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT02898636,death,death,1000,C0011065,Death,Cessation of life,"LNC,SNOMEDCT_US",Organism Function
+NCT02898636,wound,wound,1000,C0043250,Wound,Injury wounds,"LNC,SNOMEDCT_US",Injury or Poisoning

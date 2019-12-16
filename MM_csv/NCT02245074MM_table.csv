@@ -1,0 +1,16 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT02245074,chronic disease,chronic disease,1000,C0008679,Chronic disease ,Chronic disease ,SNOMEDCT_US,Disease or Syndrome
+NCT02245074,corticosteroid during the last four weeks,corticosteroid during the last four weeks,753,C0001617,Adrenal cortex hormones,Adrenal Cortex Hormones,"LNC,SNOMEDCT_US","Hormone,Organic Chemical,Pharmacologic Substance"
+NCT02245074,corticosteroid during the last four weeks,corticosteroid during the last four weeks,753,C0205450,Four ,Four ,SNOMEDCT_US,Quantitative Concept
+NCT02245074,corticosteroid during the last four weeks,corticosteroid during the last four weeks,753,C0439230,week ,week ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT02245074,adverse events,adverse events,1000,C0877248,Adverse event ,Adverse event ,"LNC,SNOMEDCT_VET",Pathologic Function
+NCT02245074,during the 4 last weeks,during the 4 last weeks,804,C0439230,week ,week ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT02245074,during the 4 last weeks,during the 4 last weeks,804,C3838679,4+,4+ Answer to question,LNC,Finding
+NCT02245074,% SaO2,% SaO2,0,N/A,N/A,N/A,N/A,N/A
+NCT02245074,< 95 %,< 95 %,1000,C4517906,95 ,95 ,SNOMEDCT_US,Quantitative Concept
+NCT02245074,Age,Age,1000,C0001779,Age ,Age ,"LNC,SNOMEDCT_US",Organism Attribute
+NCT02245074,between 6 and 36 mo.,between 6,861,C0026544,Morocco ,Morocco ,"LNC,SNOMEDCT_US",Geographic Area
+NCT02245074,between 6 and 36 mo.,between 6,861,C4319606,36 ,36 ,SNOMEDCT_US,Quantitative Concept
+NCT02245074,% SaO2 3 95 %,% SaO2 3 95 %,827,C4517906,95 ,95 ,SNOMEDCT_US,Quantitative Concept
+NCT02245074,non-opposition,non-opposition,861,C0231519,Gegenhalten ,Gegenhalten ,SNOMEDCT_US,Finding
+NCT02245074,non-opposition,non-opposition,861,C1518422,Not,Negation,LNC,Functional Concept

@@ -1,0 +1,10 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT02725671,hemodynamic instability,hemodynamic instability,1000,C0948268,Hemodynamic instability ,Hemodynamic instability ,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT02725671,anaphylactic contrast reaction,anaphylactic contrast reaction,913,C0002792,Anaphylaxis,anaphylaxis,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT02725671,anaphylactic contrast reaction,anaphylactic contrast reaction,913,C0009924,Contrast media,Contrast Media,"LNC,SNOMEDCT_US","Indicator, Reagent, or Diagnostic Aid"
+NCT02725671,age,age,1000,C0001779,Age ,Age ,"LNC,SNOMEDCT_US",Organism Attribute
+NCT02725671,elective cardiac CT examination,elective cardiac CT examination,875,C0562319,Examination of heart ,Examination of heart ,SNOMEDCT_US,Health Care Activity
+NCT02725671,elective cardiac CT examination,elective cardiac CT examination,875,C0007673,Central African Republic ,Central African Republic ,SNOMEDCT_US,Geographic Area
+NCT02725671,elective cardiac CT examination,elective cardiac CT examination,875,C0206058,Elective surgery,Elective Surgical Procedures,"HCPCS,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT02725671,coronary artery disease,coronary artery disease,1000,C0010054,Coronary arteriosclerosis,Coronary Arteriosclerosis,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT02725671,18 or older,18,966,C0580836,Old ,Old ,SNOMEDCT_US,Temporal Concept

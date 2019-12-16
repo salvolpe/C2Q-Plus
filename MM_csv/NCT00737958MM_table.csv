@@ -1,0 +1,25 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT00737958,arrhythmia,arrhythmia,1000,C0003811,Cardiac arrhythmia,Cardiac Arrhythmia,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00737958,Severe 3 vessel coronary artery disease,Severe 3 vessel coronary artery disease,861,C0010054,Coronary arteriosclerosis,Coronary Arteriosclerosis,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00737958,Severe 3 vessel coronary artery disease,Severe 3 vessel coronary artery disease,861,C0005847,Blood vessel,Blood Vessel,"LNC,SNOMEDCT_US,SNOMEDCT_VET","Body Part, Organ, or Organ Component"
+NCT00737958,Severe 3 vessel coronary artery disease,Severe 3 vessel coronary artery disease,861,C0205082,Severe (severity modifier),Severe (severity modifier),"LNC,SNOMEDCT_US",Finding
+NCT00737958,stenosis,stenosis,1000,C1261287,Stenosis ,Stenosis ,"LNC,SNOMEDCT_US",Pathologic Function
+NCT00737958,Resting conduction abnormality,Resting conduction abnormality,755,C0205161,Abnormal ,Abnormal ,"LNC,SNOMEDCT_US",Finding
+NCT00737958,Resting conduction abnormality,Resting conduction abnormality,755,C0035253,Rest ,Rest ,"LNC,SNOMEDCT_US",Daily or Recreational Activity
+NCT00737958,Resting conduction abnormality,Resting conduction abnormality,755,C0232217,Cardiac conduction ,Cardiac conduction ,"LNC,SNOMEDCT_US",Organ or Tissue Function
+NCT00737958,Digoxin,Digoxin,1000,C0012265,Digoxin ,Digoxin ,"LNC,RXNORM,SNOMEDCT_US","Organic Chemical,Pharmacologic Substance"
+NCT00737958,Uncontrolled hypertension,Uncontrolled hypertension,861,C0020538,Hypertensive disease ,Hypertensive disease ,"LNC,SNOMEDCT_US,SNOMEDCT_VET",Disease or Syndrome
+NCT00737958,Uncontrolled hypertension,Uncontrolled hypertension,861,C0205318,Uncontrolled ,Uncontrolled ,SNOMEDCT_US,Qualitative Concept
+NCT00737958,Renal,Renal,1000,C0022646,Kidney ,Kidney ,"LNC,SNOMEDCT_US","Body Part, Organ, or Organ Component"
+NCT00737958,hepatic failure,hepatic failure,1000,C1306571,"Hepatic insufficiency, NOS",Hepatic Insufficiency,SNOMEDCT_US,Pathologic Function
+NCT00737958,unstable disease,unstable disease,861,C0012634,Disease ,Disease ,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00737958,unstable disease,unstable disease,861,C0443343,Unstable status ,Unstable status ,"LNC,SNOMEDCT_US",Finding
+NCT00737958,unstable symptoms,unstable symptoms,861,C1457887,Symptoms ,Symptoms ,"LNC,SNOMEDCT_US",Sign or Symptom
+NCT00737958,unstable symptoms,unstable symptoms,861,C0443343,Unstable status ,Unstable status ,"LNC,SNOMEDCT_US",Finding
+NCT00737958,within 3 months,within 3 months,901,C1442461,3 months,3 Months,LNC,Temporal Concept
+NCT00737958,Asthma,Asthma,1000,C0004096,Asthma ,Asthma ,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00737958,Intercurrent illness,Intercurrent illness,861,C0221423,Illness (finding),Illness (finding),SNOMEDCT_US,Sign or Symptom
+NCT00737958,Documented coronary heart disease,Documented coronary heart disease,923,C0010068,Coronary heart disease ,Coronary heart disease ,SNOMEDCT_US,Disease or Syndrome
+NCT00737958,Documented coronary heart disease,Documented coronary heart disease,923,C1301725,Documented ,Documented ,SNOMEDCT_US,Health Care Activity
+NCT00737958,Symptoms,Symptoms,1000,C1457887,Symptoms ,Symptoms ,"LNC,SNOMEDCT_US",Sign or Symptom
+NCT00737958,stable angina pectoris,stable angina pectoris,1000,C0340288,Stable angina ,Stable angina ,"LNC,SNOMEDCT_US",Disease or Syndrome

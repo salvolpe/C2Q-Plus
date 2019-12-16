@@ -1,0 +1,48 @@
+{'term': 'malignancy', 'domain': 'Condition'}
+{"matchScore":0.7547162,"concept":{"conceptId":4233629,"conceptName":"Widespread metastatic malignant neoplastic disease","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"405843009","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":4,"additionalInformation":""},"term":"Generalised malignancy"}
+
+{'term': 'non-melanoma skin cancer', 'domain': 'Condition'}
+{"matchScore":0.61066324,"concept":{"conceptId":141232,"conceptName":"Malignant melanoma of skin","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"93655004","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":24,"additionalInformation":""},"term":"Melanoma of Skin"}
+
+{'term': 'breast cancer', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":81251,"conceptName":"Neoplasm of breast","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"126926005","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":29,"additionalInformation":""},"term":"Breast Cancer"}
+
+{'term': 'prior', 'domain': 'Temporal'}
+N/A
+
+{'term': 'radiotherapy', 'domain': 'Procedure'}
+{"matchScore":0.99860007,"concept":{"conceptId":4029715,"conceptName":"Radiation oncology AND/OR radiotherapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"108290001","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":53,"additionalInformation":""},"term":"Radiotherapy"}
+
+{'term': 'treatments', 'domain': 'Procedure'}
+{"matchScore":1.0,"concept":{"conceptId":4077953,"conceptName":"Therapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"276239002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":41,"additionalInformation":""},"term":"Treatments"}
+
+{'term': 'neoadjuvant chemotherapy', 'domain': 'Drug'}
+{"matchScore":0.59990305,"concept":{"conceptId":724024,"conceptName":"Adjuvant preparations for cancer therapy","domainId":"Drug","vocabularyId":"EphMRA ATC","conceptClassId":"ATC 4th","standardConcept":"C","conceptCode":"L1X1","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"Adjuvant preparations for cancer therapy"}
+
+{'term': 'Female', 'domain': 'Demographic'}
+N/A
+
+{'term': 'adenocarcinoma', 'domain': 'Condition'}
+{"matchScore":0.9935867,"concept":{"conceptId":40484156,"conceptName":"Malignant adenomatous neoplasm","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"443961001","validStartDate":"20100131","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":45,"additionalInformation":""},"term":"Adenocarcinoma"}
+
+{'term': 'ductal carcinoma in situ ( DCIS )', 'domain': 'Condition'}
+{"matchScore":0.51246786,"concept":{"conceptId":4001670,"conceptName":"Intraductal carcinoma in situ of breast","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"109889007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":7,"additionalInformation":""},"term":"Ductal Carcinoma In Situ"}
+
+{'term': 'breast-conserving surgery', 'domain': 'Procedure'}
+{"matchScore":0.41721523,"concept":{"conceptId":4261829,"conceptName":"Laser surgery","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"35631009","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":75,"additionalInformation":""},"term":"Laser surgery"}
+
+{'term': 'radiotherapy', 'domain': 'Procedure'}
+{"matchScore":0.99860007,"concept":{"conceptId":4029715,"conceptName":"Radiation oncology AND/OR radiotherapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"108290001","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":53,"additionalInformation":""},"term":"Radiotherapy"}
+
+{'term': 'radiotherapy', 'domain': 'Procedure'}
+{"matchScore":0.99860007,"concept":{"conceptId":4029715,"conceptName":"Radiation oncology AND/OR radiotherapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"108290001","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":53,"additionalInformation":""},"term":"Radiotherapy"}
+
+{'term': 'between 01-01-2005 and 31-12-2008', 'domain': 'Value'}
+N/A
+
+{'term': 'X-Ray Computed Tomography', 'domain': 'Procedure'}
+{"matchScore":0.9962506,"concept":{"conceptId":4300757,"conceptName":"Computerized axial tomography","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"77477000","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":23,"additionalInformation":""},"term":"X-Ray Computed Tomography"}
+
+{'term': 'original breast cancer', 'domain': 'Condition'}
+{"matchScore":0.75634587,"concept":{"conceptId":81251,"conceptName":"Neoplasm of breast","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"126926005","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":29,"additionalInformation":""},"term":"Breast Cancer"}
+

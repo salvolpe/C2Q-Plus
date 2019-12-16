@@ -1,0 +1,66 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT00594516,conditions,conditions,966,C0348080,Condition ,Condition ,"LNC,SNOMEDCT_US",Qualitative Concept
+NCT00594516,Low Back Pain,Low Back Pain,1000,C0024031,Low back pain,Low Back Pain,SNOMEDCT_US,Sign or Symptom
+NCT00594516,pain,pain,1000,C0030193,Pain ,Pain ,"LNC,SNOMEDCT_US",Sign or Symptom
+NCT00594516,Surgery,Surgery,1000,C1274039,General surgery,General surgery specialty,"LNC,SNOMEDCT_US",Biomedical Occupation or Discipline
+NCT00594516,expected surgery,expected surgery,861,C1274039,General surgery,General surgery specialty,"LNC,SNOMEDCT_US",Biomedical Occupation or Discipline
+NCT00594516,expected surgery,expected surgery,861,C0679138,Expectations ,Expectations ,SNOMEDCT_US,Idea or Concept
+NCT00594516,within 3 months,within 3 months,901,C1442461,3 months,3 Months,LNC,Temporal Concept
+NCT00594516,scheduled surgery,scheduled surgery,1000,C3845500,Scheduled surgical procedure ,Scheduled surgical procedure ,LNC,Finding
+NCT00594516,procedure,procedure,1000,C0184661,Procedure,Interventional procedure,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT00594516,significant disease,significant disease,861,C0012634,Disease ,Disease ,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00594516,significant disease,significant disease,861,C0750502,Significant ,Significant ,SNOMEDCT_US,Idea or Concept
+NCT00594516,malignancy,malignancy,1000,C1306459,Primary malignant neoplasm ,Primary malignant neoplasm ,SNOMEDCT_US,Neoplastic Process
+NCT00594516,basal cell carcinoma,basal cell carcinoma,1000,C0007117,Basal cell carcinoma ,Basal cell carcinoma ,"SNOMEDCT_US,SNOMEDCT_VET",Neoplastic Process
+NCT00594516,within the past 2 years,within the past 2 years,804,C0439234,year ,year ,SNOMEDCT_US,Temporal Concept
+NCT00594516,within the past 2 years,within the past 2 years,804,C1444637,In the past ,In the past ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT00594516,Women,Women,1000,C0043210,Woman ,Woman ,SNOMEDCT_US,Population Group
+NCT00594516,pregnant,pregnant,1000,C0549206,Patient currently pregnant ,Patient currently pregnant ,"LNC,SNOMEDCT_US,SNOMEDCT_VET",Finding
+NCT00594516,breast-feeding,breast-feeding,1000,C0006147,"Breast feeding, NOS",Breast Feeding,SNOMEDCT_US,Organism Function
+NCT00594516,severely impaired liver function,severely impaired liver function,923,C0086565,Abnormal hepatic function,Liver Dysfunction,SNOMEDCT_US,Finding
+NCT00594516,severely impaired liver function,severely impaired liver function,923,C0205082,Severe (severity modifier),Severe (severity modifier),"LNC,SNOMEDCT_US",Finding
+NCT00594516,Severely impaired kidney function,Severely impaired kidney function,905,C1565489,Renal insufficiency,Renal Insufficiency,"SNOMEDCT_US,SNOMEDCT_VET",Disease or Syndrome
+NCT00594516,Severely impaired kidney function,Severely impaired kidney function,905,C0205082,Severe (severity modifier),Severe (severity modifier),"LNC,SNOMEDCT_US",Finding
+NCT00594516,chronic hepatitis,chronic hepatitis,1000,C0019189,Chronic hepatitis NOS,"Hepatitis, Chronic",SNOMEDCT_US,Disease or Syndrome
+NCT00594516,HIV,HIV,1000,C0019699,HIV seropositivity,HIV Seropositivity,SNOMEDCT_US,Laboratory or Test Result
+NCT00594516,active hepatitis,active hepatitis,861,C0019159,Hepatitis A ,Hepatitis A ,SNOMEDCT_US,Disease or Syndrome
+NCT00594516,active hepatitis,active hepatitis,861,C0205177,Active ,Active ,"LNC,SNOMEDCT_US",Qualitative Concept
+NCT00594516,in past 3 months,in past 3 months,812,C0439231,month ,month ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT00594516,in past 3 months,in past 3 months,812,C1444637,In the past ,In the past ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT00594516,seizure disorder,seizure disorder,1000,C0014544,Epilepsy ,Epilepsy ,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00594516,Alcohol,Alcohol,1000,C0001962,Ethanol ,Ethanol ,"LNC,RXNORM,SNOMEDCT_US","Organic Chemical,Pharmacologic Substance"
+NCT00594516,drug abuse,drug abuse,1000,C0013146,Drug abuse ,Drug abuse ,"LNC,SNOMEDCT_US",Mental or Behavioral Dysfunction
+NCT00594516,Uncontrolled high blood pressure,Uncontrolled high blood pressure,923,C2926615,Ever told by doctor or nurse that you have high blood pressure:Finding:Point in time:^Patient:Ordinal ,Ever told by doctor or nurse that you have high blood pressure:Finding:Point in time:^Patient:Ordinal ,LNC,Clinical Attribute
+NCT00594516,Uncontrolled high blood pressure,Uncontrolled high blood pressure,923,C0205318,Uncontrolled ,Uncontrolled ,SNOMEDCT_US,Qualitative Concept
+NCT00594516,hypersensitivity,hypersensitivity,1000,C0020517,Hypersensitivity ,Hypersensitivity ,"LNC,SNOMEDCT_US",Pathologic Function
+NCT00594516,allergy,allergy,1000,C0002111,Allergy - specialty,Allergy Specialty,SNOMEDCT_US,Biomedical Occupation or Discipline
+NCT00594516,contraindications,contraindications,1000,C1301624,Medical contraindication ,Medical contraindication ,"LNC,SNOMEDCT_US",Finding
+NCT00594516,acetaminophen,acetaminophen,1000,C0000970,Acetaminophen ,Acetaminophen ,"LNC,RXNORM,SNOMEDCT_US","Organic Chemical,Pharmacologic Substance"
+NCT00594516,opioid analgesics,opioid analgesics,1000,C0002772,Opioid analgesics,"Analgesics, Opioid",SNOMEDCT_US,"Organic Chemical,Pharmacologic Substance"
+NCT00594516,ingredients,ingredients,0,N/A,N/A,N/A,N/A,N/A
+NCT00594516,Low Back Pain,Low Back Pain,1000,C0024031,Low back pain,Low Back Pain,SNOMEDCT_US,Sign or Symptom
+NCT00594516,non-malignant origin,non-malignant origin,827,C0439659,Origins,Beginning,"LNC,SNOMEDCT_US",Temporal Concept
+NCT00594516,non-malignant origin,non-malignant origin,827,C0205282,Malignant,Malignant - descriptor,"LNC,SNOMEDCT_US",Qualitative Concept
+NCT00594516,non-malignant origin,non-malignant origin,827,C1518422,Not,Negation,LNC,Functional Concept
+NCT00594516,at least 3 months,at least 3 months,812,C0439231,month ,month ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT00594516,drug treatment,drug treatment,1000,C0150270,Medication Management ,Medication Management ,"ICD10PCS,SNOMEDCT_US",Health Care Activity
+NCT00594516,pain,pain,1000,C0030193,Pain ,Pain ,"LNC,SNOMEDCT_US",Sign or Symptom
+NCT00594516,therapy,therapy,1000,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT00594516,at least 3 months,at least 3 months,812,C0439231,month ,month ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT00594516,current,current,1000,C0521116,Current,Current (present time),SNOMEDCT_US,Temporal Concept
+NCT00594516,opioid treatment,opioid treatment,861,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT00594516,opioid treatment,opioid treatment,861,C0242402,Opioid,Opioids,"LNC,SNOMEDCT_US","Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance"
+NCT00594516,daily opioid dose < = 160 mg/day of oral morphine equivalent,daily opioid dose,827,C0178602,Dosage ,Dosage ,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT00594516,daily opioid dose < = 160 mg/day of oral morphine equivalent,daily opioid dose,827,C0242402,Opioid,Opioids,"LNC,SNOMEDCT_US","Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance"
+NCT00594516,daily opioid dose < = 160 mg/day of oral morphine equivalent,daily opioid dose,827,C0332173,Daily ,Daily ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT00594516,daily opioid dose < = 160 mg/day of oral morphine equivalent,<,778,C0439422,milligram/day ,milligram/day ,SNOMEDCT_US,Quantitative Concept
+NCT00594516,daily opioid dose < = 160 mg/day of oral morphine equivalent,<,778,C0360457,Morphine Oral Product ,Morphine Oral Product ,"RXNORM,SNOMEDCT_US",Clinical Drug
+NCT00594516,daily opioid dose < = 160 mg/day of oral morphine equivalent,<,778,C0205163,Equal ,Equal ,SNOMEDCT_US,Qualitative Concept
+NCT00594516,baseline score,baseline score,861,C0449820,Score ,Score ,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT00594516,baseline score,baseline score,861,C1442488,Baseline ,Baseline ,LNC,Quantitative Concept
+NCT00594516,11-point NRS,11-point NRS,0,N/A,N/A,N/A,N/A,N/A
+NCT00594516,pain,pain,1000,C0030193,Pain ,Pain ,"LNC,SNOMEDCT_US",Sign or Symptom
+NCT00594516,> = 5,>,1000,C0439084,>5 ,>5 ,SNOMEDCT_US,Quantitative Concept
+NCT00594516,treatment,treatment,1000,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT00594516,during the last 3 days,during the last 3 days,804,C0439228,day ,day ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT00594516,during the last 3 days,during the last 3 days,804,C1517741,Last ,Last ,LNC,Qualitative Concept

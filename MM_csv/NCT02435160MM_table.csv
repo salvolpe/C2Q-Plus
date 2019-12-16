@@ -1,0 +1,4 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT02435160,Hemoglobin,Hemoglobin,1000,C0019046,Hemoglobin ,Hemoglobin ,"LNC,SNOMEDCT_US","Amino Acid, Peptide, or Protein,Biologically Active Substance"
+NCT02435160,< 6g/dL,< 6g/dL,0,N/A,N/A,N/A,N/A,N/A
+NCT02435160,male,male,1000,C0086582,Male,Males,"LNC,SNOMEDCT_US",Organism Attribute

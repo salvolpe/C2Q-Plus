@@ -1,0 +1,22 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT02392130,Clinical skin atrophy,Clinical skin atrophy,901,C0151514,Atrophic condition of skin ,Atrophic condition of skin ,SNOMEDCT_US,Disease or Syndrome
+NCT02392130,Clinical skin atrophy,Clinical skin atrophy,901,C0205210,Clinical ,Clinical ,SNOMEDCT_US,Qualitative Concept
+NCT02392130,telangiectasia,telangiectasia,1000,C0039446,Telangiectasis ,Telangiectasis ,SNOMEDCT_US,Disease or Syndrome
+NCT02392130,skin condition,skin condition,1000,C1719933,Skin condition (observable entity),Skin condition (observable entity),"LNC,SNOMEDCT_US",Clinical Attribute
+NCT02392130,response,response,0,N/A,N/A,N/A,N/A,N/A
+NCT02392130,Fitzpatrick skin type IV - VI,Fitzpatrick skin type IV - VI,853,C1960442,Type 6 ,Type 6 ,SNOMEDCT_US,Intellectual Product
+NCT02392130,Fitzpatrick skin type IV - VI,Fitzpatrick skin type IV - VI,853,C0441732,Type 4 ,Type 4 ,"LNC,SNOMEDCT_US",Classification
+NCT02392130,Fitzpatrick skin type IV - VI,Fitzpatrick skin type IV - VI,853,C0444099,Skin specimen,Skin Specimen,SNOMEDCT_US,Body Substance
+NCT02392130,infection,infection,1000,C0009450,Communicable disease,Communicable Diseases,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT02392130,eczema or other relevant skin disease,eczema or other relevant skin disease,827,C0037274,Skin diseases,Dermatologic disorders,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT02392130,eczema or other relevant skin disease,eczema or other relevant skin disease,827,C0013595,Eczema ,Eczema ,SNOMEDCT_US,Disease or Syndrome
+NCT02392130,current,current,1000,C0521116,Current,Current (present time),SNOMEDCT_US,Temporal Concept
+NCT02392130,Healthy,Healthy,1000,C3898900,Healthy ,Healthy ,LNC,Qualitative Concept
+NCT02392130,male,male,1000,C0086582,Male,Males,"LNC,SNOMEDCT_US",Organism Attribute
+NCT02392130,25 to 50 years old inclusive,25 to 50 years old inclusive,753,C0332257,Including,Including (qualifier),SNOMEDCT_US,Functional Concept
+NCT02392130,25 to 50 years old inclusive,25 to 50 years old inclusive,753,C0439234,year ,year ,SNOMEDCT_US,Temporal Concept
+NCT02392130,25 to 50 years old inclusive,25 to 50 years old inclusive,753,C0580836,Old ,Old ,SNOMEDCT_US,Temporal Concept
+NCT02392130,25 to 50 years old inclusive,25 to 50 years old inclusive,753,C3843766,<50 ,<50 ,LNC,Finding
+NCT02392130,age,age,1000,C0001779,Age ,Age ,"LNC,SNOMEDCT_US",Organism Attribute
+NCT02392130,Healthy skin,Healthy skin,861,C0444099,Skin specimen,Skin Specimen,SNOMEDCT_US,Body Substance
+NCT02392130,Healthy skin,Healthy skin,861,C3898900,Healthy ,Healthy ,LNC,Qualitative Concept

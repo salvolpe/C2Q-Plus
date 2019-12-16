@@ -1,0 +1,13 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT01725321,Crohn 's or ulcerative colitis,Crohn 's or ulcerative colitis,902,C0156147,Crohn's disease of large bowel ,Crohn's disease of large bowel ,"SNOMEDCT_US,SNOMEDCT_VET",Disease or Syndrome
+NCT01725321,Crohn 's or ulcerative colitis,Crohn 's or ulcerative colitis,902,C0009324,"Ulcerative colitis, NOS",Ulcerative Colitis,SNOMEDCT_US,Disease or Syndrome
+NCT01725321,polyposis syndrome,polyposis syndrome,861,C0039082,Syndrome ,Syndrome ,SNOMEDCT_US,Disease or Syndrome
+NCT01725321,polyposis syndrome,polyposis syndrome,861,C0334108,Multiple polyps ,Multiple polyps ,SNOMEDCT_US,Neoplastic Process
+NCT01725321,Adenomatous Polyposis Coli,Adenomatous Polyposis Coli,1000,C0032580,Adenomatous polyposis coli,Adenomatous Polyposis Coli,SNOMEDCT_US,Neoplastic Process
+NCT01725321,colonic resection,colonic resection,861,C0728940,Excision ,Excision ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01725321,colonic resection,colonic resection,861,C0009368,Colon structure (body structure),Colon structure (body structure),"LNC,SNOMEDCT_US","Body Part, Organ, or Organ Component"
+NCT01725321,appendectomy,appendectomy,1000,C0003611,Appendectomy ,Appendectomy ,SNOMEDCT_US,Therapeutic or Preventive Procedure
+NCT01725321,Previous,Previous,1000,C0205156,Previous ,Previous ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT01725321,Refused consent,Refused,1000,C1705116,Refused ,Refused ,"LNC,SNOMEDCT_US",Activity
+NCT01725321,Refused consent,consent,1000,C2923685,Consent:Finding:Point in time:,Consent:Finding:Point in time:,Setting,Clinical Attribute
+NCT01725321,colonoscopy,colonoscopy,1000,C0009378,Colonoscopy,colonoscopy,"LNC,SNOMEDCT_US",Diagnostic Procedure

@@ -1,0 +1,24 @@
+{'term': 'condition', 'domain': 'Condition'}
+{"matchScore":0.7077829,"concept":{"conceptId":80205,"conceptName":"Condition in fetus originating in the perinatal period","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"41168002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":4,"additionalInformation":""},"term":"Perinatal condition"}
+
+{'term': 'chronic disease', 'domain': 'Condition'}
+{"matchScore":0.9945672,"concept":{"conceptId":443783,"conceptName":"Chronic disease","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"27624003","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":36,"additionalInformation":""},"term":"Chronic disease"}
+
+{'term': 'carbohydrate', 'domain': 'Drug'}
+{"matchScore":1.0,"concept":{"conceptId":44012568,"conceptName":"Carbohydrate","domainId":"Drug","vocabularyId":"RxNorm Extension","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"OMOP1131505","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":0,"childCount":4,"additionalInformation":""},"term":"Carbohydrate"}
+
+{'term': 'disorder', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":4274025,"conceptName":"Disease","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"64572001","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":91,"additionalInformation":""},"term":"Disorder"}
+
+{'term': 'medications', 'domain': 'Procedure'}
+{"matchScore":0.8186771,"concept":{"conceptId":4082382,"conceptName":"Management of drug regimen","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"182832007","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":25,"additionalInformation":""},"term":"Medication actions"}
+
+{'term': 'Healthy children between', 'domain': 'Condition'}
+{"matchScore":0.6409566,"concept":{"conceptId":4008161,"conceptName":"Well child","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"102506008","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":3,"additionalInformation":""},"term":"Healthy child"}
+
+{'term': 'ages', 'domain': 'Demographic'}
+N/A
+
+{'term': '5 months and 3 years', 'domain': 'Temporal'}
+N/A
+

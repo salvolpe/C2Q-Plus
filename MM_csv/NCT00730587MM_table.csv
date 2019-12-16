@@ -1,0 +1,11 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT00730587,condition,condition,1000,C0348080,Condition ,Condition ,"LNC,SNOMEDCT_US",Qualitative Concept
+NCT00730587,chronic disease,chronic disease,1000,C0008679,Chronic disease ,Chronic disease ,SNOMEDCT_US,Disease or Syndrome
+NCT00730587,carbohydrate,carbohydrate,1000,C0007004,Carbohydrates ,Carbohydrates ,"LNC,SNOMEDCT_US",Organic Chemical
+NCT00730587,disorder,disorder,1000,C0012634,Disease ,Disease ,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT00730587,medications,medications,1000,C2598133,Medications:-:Point in time:^Patient:- ,Medications:-:Point in time:^Patient:- ,LNC,Clinical Attribute
+NCT00730587,Healthy children between,Healthy children between,866,C0686744,Well child ,Well child ,SNOMEDCT_US,Finding
+NCT00730587,ages,ages,1000,C0001779,Age ,Age ,"LNC,SNOMEDCT_US",Organism Attribute
+NCT00730587,5 months and 3 years,5 months and 3 years,804,C0439234,year ,year ,SNOMEDCT_US,Temporal Concept
+NCT00730587,5 months and 3 years,5 months and 3 years,804,C0439084,>5 ,>5 ,SNOMEDCT_US,Quantitative Concept
+NCT00730587,5 months and 3 years,5 months and 3 years,804,C0439231,month ,month ,"LNC,SNOMEDCT_US",Temporal Concept

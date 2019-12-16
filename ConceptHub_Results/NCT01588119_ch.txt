@@ -1,0 +1,36 @@
+{'term': 'contraindication', 'domain': 'Condition'}
+{"matchScore":0.881053,"concept":{"conceptId":4266013,"conceptName":"Medical contraindication","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"397745006","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"Medical contraindication"}
+
+{'term': 'oral anticoagulant', 'domain': 'Drug'}
+{"matchScore":0.93740547,"concept":{"conceptId":4334360,"conceptName":"Anti-coagulant","domainId":"Drug","vocabularyId":"NDFRT","conceptClassId":"Pharmacologic Class","standardConcept":"C","conceptCode":"N0000175980","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":281,"additionalInformation":""},"term":"Anticoagulant"}
+
+{'term': 'Dabigatran', 'domain': 'Drug'}
+{"matchScore":1.0,"concept":{"conceptId":45775372,"conceptName":"dabigatran","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"1546356","validStartDate":"20141201","validEndDate":"20991231","invalidReason":null,"parentCount":0,"childCount":0,"additionalInformation":""},"term":"dabigatran"}
+
+{'term': 'Rivaroxaban', 'domain': 'Drug'}
+{"matchScore":1.0,"concept":{"conceptId":43534761,"conceptName":"rivaroxaban","domainId":"Drug","vocabularyId":"ATC","conceptClassId":"ATC 5th","standardConcept":"C","conceptCode":"B01AF01","validStartDate":"20130805","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":181,"additionalInformation":""},"term":"rivaroxaban"}
+
+{'term': 'Apixaban', 'domain': 'Drug'}
+{"matchScore":1.0,"concept":{"conceptId":43534762,"conceptName":"apixaban","domainId":"Drug","vocabularyId":"ATC","conceptClassId":"ATC 5th","standardConcept":"C","conceptCode":"B01AF02","validStartDate":"20130805","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":67,"additionalInformation":""},"term":"apixaban"}
+
+{'term': 'Edoxaban', 'domain': 'Drug'}
+{"matchScore":1.0,"concept":{"conceptId":45892847,"conceptName":"edoxaban","domainId":"Drug","vocabularyId":"RxNorm","conceptClassId":"Ingredient","standardConcept":"S","conceptCode":"1599538","validStartDate":"20150302","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":16,"additionalInformation":""},"term":"edoxaban"}
+
+{'term': 'indication', 'domain': 'Condition'}
+{"matchScore":0.6769658,"concept":{"conceptId":4266013,"conceptName":"Medical contraindication","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"397745006","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"Medical contraindication"}
+
+{'term': 'treatment', 'domain': 'Procedure'}
+{"matchScore":1.0,"concept":{"conceptId":4077953,"conceptName":"Therapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"276239002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":41,"additionalInformation":""},"term":"TREATMENT"}
+
+{'term': 'nex oral anticoagulant within routine treatment', 'domain': 'Drug'}
+{"matchScore":0.5572519,"concept":{"conceptId":4334360,"conceptName":"Anti-coagulant","domainId":"Drug","vocabularyId":"NDFRT","conceptClassId":"Pharmacologic Class","standardConcept":"C","conceptCode":"N0000175980","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":281,"additionalInformation":""},"term":"Anticoagulant"}
+
+{'term': 'indication', 'domain': 'Condition'}
+{"matchScore":0.6769658,"concept":{"conceptId":4266013,"conceptName":"Medical contraindication","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"397745006","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":0,"additionalInformation":""},"term":"Medical contraindication"}
+
+{'term': 'treatment', 'domain': 'Procedure'}
+{"matchScore":1.0,"concept":{"conceptId":4077953,"conceptName":"Therapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"276239002","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":41,"additionalInformation":""},"term":"TREATMENT"}
+
+{'term': 'other anticoagulation', 'domain': 'Drug'}
+{"matchScore":0.87841344,"concept":{"conceptId":4319025,"conceptName":"Decreased Coagulation Activity","domainId":"Drug","vocabularyId":"NDFRT","conceptClassId":"Physiologic Effect","standardConcept":"C","conceptCode":"N0000175978","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":4,"additionalInformation":""},"term":"Anticoagulation"}
+

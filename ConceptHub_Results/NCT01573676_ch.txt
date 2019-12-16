@@ -1,0 +1,36 @@
+{'term': 'OSA surgery', 'domain': 'Procedure'}
+{"matchScore":0.6671882,"concept":{"conceptId":1314425,"conceptName":"Emergency surgery","domainId":"Procedure","vocabularyId":"HCPCS","conceptClassId":"HCPCS","standardConcept":"S","conceptCode":"G9752","validStartDate":"20170101","validEndDate":"20991231","invalidReason":null,"parentCount":0,"childCount":0,"additionalInformation":""},"term":"Urgent surgery"}
+
+{'term': 'in the past', 'domain': 'Temporal'}
+N/A
+
+{'term': 'bariatric surgery', 'domain': 'Procedure'}
+{"matchScore":0.69227016,"concept":{"conceptId":45768716,"conceptName":"Assessment for bariatric surgery","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"707206008","validStartDate":"20150131","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":0,"additionalInformation":""},"term":"Assessment for bariatric surgery"}
+
+{'term': 'in the past', 'domain': 'Temporal'}
+N/A
+
+{'term': 'Chronic Obstructive Airway Disease', 'domain': 'Condition'}
+{"matchScore":0.99834305,"concept":{"conceptId":255573,"conceptName":"Chronic obstructive lung disease","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"13645005","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":3,"childCount":10,"additionalInformation":""},"term":"Chronic obstructive airway disease"}
+
+{'term': 'altretamine/cisplatin/cyclophosphamide protocol', 'domain': 'Condition'}
+{"matchScore":0.41961813,"concept":{"conceptId":4248288,"conceptName":"Poisoning by cyclophosphamide","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"73340005","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":3,"additionalInformation":""},"term":"Cyclophosphamide poisoning"}
+
+{'term': 'cancer', 'domain': 'Condition'}
+{"matchScore":1.0,"concept":{"conceptId":443392,"conceptName":"Malignant neoplastic disease","domainId":"Condition","vocabularyId":"SNOMED","conceptClassId":"Clinical Finding","standardConcept":"S","conceptCode":"363346000","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":58,"additionalInformation":""},"term":"CANCER"}
+
+{'term': 'chemotherapy', 'domain': 'Procedure'}
+{"matchScore":0.992759,"concept":{"conceptId":4273629,"conceptName":"Chemotherapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"367336001","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":18,"additionalInformation":""},"term":"Chemotherapy"}
+
+{'term': 'radiotherapy', 'domain': 'Procedure'}
+{"matchScore":0.99860007,"concept":{"conceptId":4029715,"conceptName":"Radiation oncology AND/OR radiotherapy","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"108290001","validStartDate":"19700101","validEndDate":"20991231","invalidReason":null,"parentCount":1,"childCount":53,"additionalInformation":""},"term":"Radiotherapy"}
+
+{'term': 'bariatric surgery', 'domain': 'Procedure'}
+{"matchScore":0.69227016,"concept":{"conceptId":45768716,"conceptName":"Assessment for bariatric surgery","domainId":"Procedure","vocabularyId":"SNOMED","conceptClassId":"Procedure","standardConcept":"S","conceptCode":"707206008","validStartDate":"20150131","validEndDate":"20991231","invalidReason":null,"parentCount":2,"childCount":0,"additionalInformation":""},"term":"Assessment for bariatric surgery"}
+
+{'term': 'age', 'domain': 'Demographic'}
+N/A
+
+{'term': 'over 18 yrs', 'domain': 'Value'}
+N/A
+

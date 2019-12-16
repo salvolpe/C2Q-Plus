@@ -1,0 +1,25 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT02052986,medical conditions,medical conditions,827,C0348080,Condition ,Condition ,"LNC,SNOMEDCT_US",Qualitative Concept
+NCT02052986,medical conditions,medical conditions,827,C0199168,Medical service ,Medical service ,SNOMEDCT_US,Health Care Activity
+NCT02052986,bleeding,bleeding,1000,C0019080,Hemorrhage ,Hemorrhage ,"LNC,SNOMEDCT_US,SNOMEDCT_VET",Pathologic Function
+NCT02052986,clotting disorder,clotting disorder,1000,C0005779,Blood coagulation disorder,Blood Coagulation Disorders,SNOMEDCT_US,Disease or Syndrome
+NCT02052986,allergies,allergies,1000,C0020517,Hypersensitivity ,Hypersensitivity ,"LNC,SNOMEDCT_US",Pathologic Function
+NCT02052986,implantable cardiac defibrillator,implantable cardiac defibrillator,913,C0162589,Implantable defibrillator ,Implantable defibrillator ,SNOMEDCT_US,Medical Device
+NCT02052986,implantable cardiac defibrillator,implantable cardiac defibrillator,913,C0018787,Heart ,Heart ,"LNC,SNOMEDCT_US","Body Part, Organ, or Organ Component"
+NCT02052986,heart,heart,1000,C0018787,Heart ,Heart ,"LNC,SNOMEDCT_US","Body Part, Organ, or Organ Component"
+NCT02052986,transplant,transplant,1000,C0040732,Transplantation ,Transplantation ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT02052986,Female,Female,1000,C0043210,Woman ,Woman ,SNOMEDCT_US,Population Group
+NCT02052986,hormone replacement therapy,hormone replacement therapy,1000,C0282402,Hormone replacement therapy ,Hormone replacement therapy ,SNOMEDCT_US,Therapeutic or Preventive Procedure
+NCT02052986,currently,currently,1000,C0521116,Current,Current (present time),SNOMEDCT_US,Temporal Concept
+NCT02052986,pregnant,pregnant,1000,C0549206,Patient currently pregnant ,Patient currently pregnant ,"LNC,SNOMEDCT_US,SNOMEDCT_VET",Finding
+NCT02052986,Omega-3 fatty acid supplements,Omega-3 fatty acid,1000,C0015689,Omega-3 Fatty Acids ,Omega-3 Fatty Acids ,"LNC,RXNORM,SNOMEDCT_US","Biologically Active Substance,Organic Chemical,Pharmacologic Substance"
+NCT02052986,Omega-3 fatty acid supplements,supplements,1000,C2348609,Supplemental,Supplement,LNC,Functional Concept
+NCT02052986,currently,currently,1000,C0521116,Current,Current (present time),SNOMEDCT_US,Temporal Concept
+NCT02052986,age,age,1000,C0001779,Age ,Age ,"LNC,SNOMEDCT_US",Organism Attribute
+NCT02052986,> or = 18 years,>,861,C0439234,year ,year ,SNOMEDCT_US,Temporal Concept
+NCT02052986,Cardiac,Cardiac,1000,C0018787,Heart ,Heart ,"LNC,SNOMEDCT_US","Body Part, Organ, or Organ Component"
+NCT02052986,cardiovascular,cardiovascular,1000,C0007226,Cardiovascular system ,Cardiovascular system ,"LNC,SNOMEDCT_US",Body System
+NCT02052986,cardiovascular disease,cardiovascular disease,1000,C0007222,Cardiovascular disease,Cardiovascular Diseases,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT02052986,cardiovascular,cardiovascular,1000,C0007226,Cardiovascular system ,Cardiovascular system ,"LNC,SNOMEDCT_US",Body System
+NCT02052986,within the past 2 months,within the past 2 months,804,C0439231,month ,month ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT02052986,within the past 2 months,within the past 2 months,804,C1444637,In the past ,In the past ,"LNC,SNOMEDCT_US",Temporal Concept

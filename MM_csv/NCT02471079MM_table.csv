@@ -1,0 +1,20 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT02471079,malignancy,malignancy,1000,C1306459,Primary malignant neoplasm ,Primary malignant neoplasm ,SNOMEDCT_US,Neoplastic Process
+NCT02471079,non-melanoma skin cancer,non-melanoma skin cancer,923,C0151779,Melanoma of skin,Cutaneous Melanoma,"LNC,SNOMEDCT_US,SNOMEDCT_VET",Neoplastic Process
+NCT02471079,non-melanoma skin cancer,non-melanoma skin cancer,923,C1518422,Not,Negation,LNC,Functional Concept
+NCT02471079,breast cancer,breast cancer,1000,C0006142,Malignant neoplasm of breast ,Malignant neoplasm of breast ,"LNC,SNOMEDCT_US",Neoplastic Process
+NCT02471079,prior,prior,1000,C0332152,Before ,Before ,SNOMEDCT_US,Temporal Concept
+NCT02471079,radiotherapy,radiotherapy,1000,C0243005,Radiotherapy,Radiation Oncology specialty,"LNC,SNOMEDCT_US",Biomedical Occupation or Discipline
+NCT02471079,treatments,treatments,1000,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT02471079,neoadjuvant chemotherapy,neoadjuvant chemotherapy,861,C0392920,Chemotherapy regimen,Chemotherapy Regimen,SNOMEDCT_US,Therapeutic or Preventive Procedure
+NCT02471079,Female,Female,1000,C0043210,Woman ,Woman ,SNOMEDCT_US,Population Group
+NCT02471079,adenocarcinoma,adenocarcinoma,1000,C0001418,Adenocarcinoma ,Adenocarcinoma ,"LNC,SNOMEDCT_US",Neoplastic Process
+NCT02471079,ductal carcinoma in situ ( DCIS ),ductal carcinoma in situ,1000,C0007124,"Intraductal carcinoma, noninfiltrating",Noninfiltrating Intraductal Carcinoma,"LNC,SNOMEDCT_US",Neoplastic Process
+NCT02471079,breast-conserving surgery,breast-conserving surgery,913,C0851312,Breast surgery,Breast surgery specialty,"LNC,SNOMEDCT_US",Biomedical Occupation or Discipline
+NCT02471079,radiotherapy,radiotherapy,1000,C0243005,Radiotherapy,Radiation Oncology specialty,"LNC,SNOMEDCT_US",Biomedical Occupation or Discipline
+NCT02471079,radiotherapy,radiotherapy,1000,C0243005,Radiotherapy,Radiation Oncology specialty,"LNC,SNOMEDCT_US",Biomedical Occupation or Discipline
+NCT02471079,between 01-01-2005 and 31-12-2008,between 01-01-2005,827,C0450355,31 ,31 ,SNOMEDCT_US,Quantitative Concept
+NCT02471079,X-Ray Computed Tomography,X-Ray Computed Tomography,1000,C0040404,X-ray tomography,"Tomography, X-Ray",SNOMEDCT_US,Diagnostic Procedure
+NCT02471079,X-Ray Computed Tomography,X-Ray Computed Tomography,1000,C0040405,"Computerized transaxial tomography, NOS",X-Ray Computed Tomography,"LNC,SNOMEDCT_US",Diagnostic Procedure
+NCT02471079,original breast cancer,original breast cancer,901,C0006142,Malignant neoplasm of breast ,Malignant neoplasm of breast ,"LNC,SNOMEDCT_US",Neoplastic Process
+NCT02471079,original breast cancer,original breast cancer,901,C0205313,Original ,Original ,"LNC,SNOMEDCT_US",Qualitative Concept

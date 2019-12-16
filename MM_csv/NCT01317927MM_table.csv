@@ -1,0 +1,59 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT01317927,dose anticoagulation therapy,dose anticoagulation therapy,901,C0003280,Anticoagulant,Anticoagulants,"LNC,SNOMEDCT_US",Pharmacologic Substance
+NCT01317927,dose anticoagulation therapy,dose anticoagulation therapy,901,C0178602,Dosage ,Dosage ,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT01317927,treatment,treatment,1000,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01317927,within 2 week,within 2 week,827,C0332174,Weekly ,Weekly ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT01317927,within 2 week,within 2 week,827,C0740116,+2 ,+2 ,SNOMEDCT_US,Quantitative Concept
+NCT01317927,Anticancer therapy,Anticancer therapy,1000,C0920425,Cancer treatment,cancer therapy,LNC,Therapeutic or Preventive Procedure
+NCT01317927,treatment,treatment,1000,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01317927,within 2 weeks,within 2 weeks,827,C0439230,week ,week ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT01317927,within 2 weeks,within 2 weeks,827,C0740116,+2 ,+2 ,SNOMEDCT_US,Quantitative Concept
+NCT01317927,Investigational therapy,Investigational therapy,861,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01317927,Investigational therapy,Investigational therapy,861,C0220825,Evaluation ,Evaluation ,LNC,Health Care Activity
+NCT01317927,treatment,treatment,1000,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01317927,within 4 weeks,within 4 weeks,827,C0439230,week ,week ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT01317927,within 4 weeks,within 4 weeks,827,C3838679,4+,4+ Answer to question,LNC,Finding
+NCT01317927,Major surgery,Major surgery,861,C0205164,Major ,Major ,SNOMEDCT_US,Qualitative Concept
+NCT01317927,Major surgery,Major surgery,861,C1274039,General surgery,General surgery specialty,"LNC,SNOMEDCT_US",Biomedical Occupation or Discipline
+NCT01317927,treatment,treatment,1000,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01317927,within 2 weeks,within 2 weeks,827,C0439230,week ,week ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT01317927,within 2 weeks,within 2 weeks,827,C0740116,+2 ,+2 ,SNOMEDCT_US,Quantitative Concept
+NCT01317927,Coexisting active infection,Coexisting,861,C0009450,Communicable disease,Communicable Diseases,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT01317927,Coexisting active infection,Coexisting,861,C0205177,Active ,Active ,"LNC,SNOMEDCT_US",Qualitative Concept
+NCT01317927,other medical condition,other medical condition,827,C0348080,Condition ,Condition ,"LNC,SNOMEDCT_US",Qualitative Concept
+NCT01317927,other medical condition,other medical condition,827,C0199168,Medical service ,Medical service ,SNOMEDCT_US,Health Care Activity
+NCT01317927,Significant cardiovascular disease,Significant cardiovascular disease,901,C0007222,Cardiovascular disease,Cardiovascular Diseases,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT01317927,Significant cardiovascular disease,Significant cardiovascular disease,901,C0750502,Significant ,Significant ,SNOMEDCT_US,Idea or Concept
+NCT01317927,New York Heart Association Classification,New York Heart Association Classification,1000,C1275491,New York Heart Association Classification ,New York Heart Association Classification ,"LNC,SNOMEDCT_US",Intellectual Product
+NCT01317927,Class III or IV,Class III or IV,902,C0441888,Class 4 ,Class 4 ,SNOMEDCT_US,Classification
+NCT01317927,Class III or IV,Class III or IV,902,C0441887,Class 3 ,Class 3 ,SNOMEDCT_US,Intellectual Product
+NCT01317927,significant CNS disorder,significant CNS disorder,901,C0007682,CNS disorder ,CNS disorder ,SNOMEDCT_US,Disease or Syndrome
+NCT01317927,significant CNS disorder,significant CNS disorder,901,C0750502,Significant ,Significant ,SNOMEDCT_US,Idea or Concept
+NCT01317927,altered mental status,altered mental status,1000,C0278061,Abnormal mental state ,Abnormal mental state ,"LNC,SNOMEDCT_US,SNOMEDCT_VET",Mental or Behavioral Dysfunction
+NCT01317927,psychiatric disorders,psychiatric disorders,1000,C0004936,Mental disorders NOS,Mental disorders,"LNC,SNOMEDCT_US",Mental or Behavioral Dysfunction
+NCT01317927,Symptomatic,Symptomatic,1000,C0231220,Symptomatic ,Symptomatic ,"LNC,SNOMEDCT_US",Functional Concept
+NCT01317927,untreated CNS metastases,untreated CNS metastases,901,C0279130,Central nervous system (CNS),Central nervous system (CNS),SNOMEDCT_US,Classification
+NCT01317927,untreated CNS metastases,untreated CNS metastases,901,C0332155,Did not receive therapy or drug for ,Did not receive therapy or drug for ,SNOMEDCT_US,Finding
+NCT01317927,Pregnant,Pregnant,1000,C0549206,Patient currently pregnant ,Patient currently pregnant ,"LNC,SNOMEDCT_US,SNOMEDCT_VET",Finding
+NCT01317927,breast feeding,breast feeding,1000,C0006147,"Breast feeding, NOS",Breast Feeding,SNOMEDCT_US,Organism Function
+NCT01317927,women,women,1000,C0043210,Woman ,Woman ,SNOMEDCT_US,Population Group
+NCT01317927,contraception,contraception,1000,C0700589,Birth control,Contraceptive methods,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01317927,infection,infection,1000,C0009450,Communicable disease,Communicable Diseases,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT01317927,HIV,HIV,1000,C0019699,HIV seropositivity,HIV Seropositivity,SNOMEDCT_US,Laboratory or Test Result
+NCT01317927,Hep B or Hep C,Hep B or Hep C,897,C2148557,hepatitis C vaccine ,hepatitis C vaccine ,CVX,"Immunologic Factor,Pharmacologic Substance"
+NCT01317927,malignant disease,malignant disease,1000,C0442867,Malignant disease,malignant disease,SNOMEDCT_US,Disease or Syndrome
+NCT01317927,Age,Age,1000,C0001779,Age ,Age ,"LNC,SNOMEDCT_US",Organism Attribute
+NCT01317927,>= 18 years old,>,861,C0439234,year ,year ,SNOMEDCT_US,Temporal Concept
+NCT01317927,>= 18 years old,old,1000,C0580836,Old ,Old ,SNOMEDCT_US,Temporal Concept
+NCT01317927,Adequate organ function,Adequate organ function,827,C0178784,{Organ},Organ,Organ,"Body Part, Organ, or Organ Component"
+NCT01317927,Adequate organ function,Adequate organ function,827,C0542341,Function (attribute),Function (attribute),"LNC,SNOMEDCT_US",Functional Concept
+NCT01317927,Adequate organ function,Adequate organ function,827,C0205410,Sufficient ,Sufficient ,"LNC,SNOMEDCT_US",Qualitative Concept
+NCT01317927,ECOG 0-2,ECOG 0-2,901,C4517436,0.2 ,0.2 ,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT01317927,ECOG 0-2,ECOG 0-2,901,C0430797,Electrocorticogram ,Electrocorticogram ,SNOMEDCT_US,Diagnostic Procedure
+NCT01317927,Estimated life expectancy,Estimated life expectancy,901,C0023671,Life expectancy,Life Expectancy,LNC,Group Attribute
+NCT01317927,Estimated life expectancy,Estimated life expectancy,901,C0750572,Estimated ,Estimated ,"LNC,SNOMEDCT_US",Quantitative Concept
+NCT01317927,> 3months,> 3months,0,N/A,N/A,N/A,N/A,N/A
+NCT01317927,Negative pregnancy test,Negative pregnancy test,1000,C0427780,Pregnancy test negative ,Pregnancy test negative ,SNOMEDCT_US,Laboratory or Test Result
+NCT01317927,women,women,1000,C0043210,Woman ,Woman ,SNOMEDCT_US,Population Group
+NCT01317927,child bearing potential,child bearing potential,660,C0008059,Child ,Child ,"LNC,SNOMEDCT_US",Age Group
+NCT01317927,child bearing potential,child bearing potential,660,C0004897,Family ursidae,Ursidae Family,"SNOMEDCT_US,SNOMEDCT_VET",Mammal

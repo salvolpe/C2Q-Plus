@@ -1,0 +1,14 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT01588119,contraindication,contraindication,1000,C0522473,Contraindication ,Contraindication ,SNOMEDCT_US,Qualitative Concept
+NCT01588119,oral anticoagulant,oral anticoagulant,1000,C0354604,Oral anticoagulants,oral anticoagulants,SNOMEDCT_US,"Organic Chemical,Pharmacologic Substance"
+NCT01588119,Dabigatran,Dabigatran,1000,C2348066,dabigatran ,dabigatran ,"LNC,RXNORM,SNOMEDCT_US","Organic Chemical,Pharmacologic Substance"
+NCT01588119,Rivaroxaban,Rivaroxaban,1000,C1739768,rivaroxaban ,rivaroxaban ,"LNC,RXNORM,SNOMEDCT_US","Organic Chemical,Pharmacologic Substance"
+NCT01588119,Apixaban,Apixaban,1000,C1831808,apixaban ,apixaban ,"LNC,RXNORM,SNOMEDCT_US","Organic Chemical,Pharmacologic Substance"
+NCT01588119,Edoxaban,Edoxaban,1000,C2975435,edoxaban ,edoxaban ,"LNC,RXNORM,SNOMEDCT_US","Organic Chemical,Pharmacologic Substance"
+NCT01588119,indication,indication,1000,C0392360,Indication of (contextual qualifier),Indication of (contextual qualifier),"LNC,SNOMEDCT_US",Idea or Concept
+NCT01588119,treatment,treatment,1000,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01588119,nex oral anticoagulant within routine treatment,nex oral anticoagulant within routine treatment,790,C0354604,Oral anticoagulants,oral anticoagulants,SNOMEDCT_US,"Organic Chemical,Pharmacologic Substance"
+NCT01588119,nex oral anticoagulant within routine treatment,nex oral anticoagulant within routine treatment,790,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure
+NCT01588119,nex oral anticoagulant within routine treatment,nex oral anticoagulant within routine treatment,790,C0205547,Routine ,Routine ,"LNC,SNOMEDCT_US",Qualitative Concept
+NCT01588119,indication,indication,1000,C0392360,Indication of (contextual qualifier),Indication of (contextual qualifier),"LNC,SNOMEDCT_US",Idea or Concept
+NCT01588119,treatment,treatment,1000,C0087111,Therapeutic procedure ,Therapeutic procedure ,"LNC,SNOMEDCT_US",Therapeutic or Preventive Procedure

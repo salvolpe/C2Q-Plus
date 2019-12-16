@@ -1,0 +1,16 @@
+NCTID,Input,Phrase,Score,CUI,String,Preferred Name,Vocab,Semantic Type
+NCT01573676,OSA surgery,OSA surgery,861,C1274039,General surgery,General surgery specialty,"LNC,SNOMEDCT_US",Biomedical Occupation or Discipline
+NCT01573676,OSA surgery,OSA surgery,861,C0520679,Obstructive sleep apnea,"Sleep Apnea, Obstructive",SNOMEDCT_US,Disease or Syndrome
+NCT01573676,in the past,in the past,827,C1444637,In the past ,In the past ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT01573676,bariatric surgery,bariatric surgery,1000,C1456587,Bariatric surgery,Bariatric Surgery,LNC,Therapeutic or Preventive Procedure
+NCT01573676,in the past,in the past,827,C1444637,In the past ,In the past ,"LNC,SNOMEDCT_US",Temporal Concept
+NCT01573676,Chronic Obstructive Airway Disease,Chronic Obstructive Airway Disease,1000,C0024117,Chronic obstructive airway disease,Chronic Obstructive Airway Disease,"LNC,SNOMEDCT_US",Disease or Syndrome
+NCT01573676,altretamine/cisplatin/cyclophosphamide protocol,altretamine/cisplatin/cyclophosphamide protocol,812,C0442711,Protocols,Protocols documentation,SNOMEDCT_US,Intellectual Product
+NCT01573676,altretamine/cisplatin/cyclophosphamide protocol,altretamine/cisplatin/cyclophosphamide protocol,812,C0008838,Cisplatin ,Cisplatin ,"LNC,RXNORM,SNOMEDCT_US","Inorganic Chemical,Pharmacologic Substance"
+NCT01573676,altretamine/cisplatin/cyclophosphamide protocol,altretamine/cisplatin/cyclophosphamide protocol,812,C0010583,Cyclophosphamide ,Cyclophosphamide ,"LNC,RXNORM,SNOMEDCT_US","Organic Chemical,Pharmacologic Substance"
+NCT01573676,altretamine/cisplatin/cyclophosphamide protocol,altretamine/cisplatin/cyclophosphamide protocol,812,C0019453,Altretamine ,Altretamine ,"RXNORM,SNOMEDCT_US","Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance"
+NCT01573676,cancer,cancer,1000,C1306459,Primary malignant neoplasm ,Primary malignant neoplasm ,SNOMEDCT_US,Neoplastic Process
+NCT01573676,chemotherapy,chemotherapy,1000,C0392920,Chemotherapy regimen,Chemotherapy Regimen,SNOMEDCT_US,Therapeutic or Preventive Procedure
+NCT01573676,radiotherapy,radiotherapy,1000,C0243005,Radiotherapy,Radiation Oncology specialty,"LNC,SNOMEDCT_US",Biomedical Occupation or Discipline
+NCT01573676,bariatric surgery,bariatric surgery,1000,C1456587,Bariatric surgery,Bariatric Surgery,LNC,Therapeutic or Preventive Procedure
+NCT01573676,age,age,1000,C0001779,Age ,Age ,"LNC,SNOMEDCT_US",Organism Attribute
